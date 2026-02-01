@@ -26,4 +26,4 @@ This project demonstrates an end-to-end data pipeline for Indonesian Stock Excha
 - Matplotlib
 
 ## Author
-Ivan Firmansyah
+Ivan Firmansyah Gumilang
