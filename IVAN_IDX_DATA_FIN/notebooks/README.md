@@ -112,7 +112,3 @@ This demonstrates integration between database querying and analytical visualiza
 - REST API integration
 
 ---
-
-## Author
-
-Ivan Firmansyah
