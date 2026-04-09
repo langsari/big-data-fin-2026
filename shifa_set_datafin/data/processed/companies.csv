@@ -1,0 +1,913 @@
+symbol,company_name,industry_group,sector,market_cap,beta,current_price,dividend_yield
+ACAP,บริษัท เอเชีย แคปปิตอล กรุ๊ป จำกัด (มหาชน),ธุรกิจการเงิน,N/A,134115688.0,,0.33,
+ALT,บริษัท เอแอลที เทเลคอม จำกัด (มหาชน),Communication Equipment,Technology,1212418816.0,0.066,1.08,
+ALUCON,บริษัท อลูคอน จำกัด (มหาชน),Aluminum,Basic Materials,9503996928.0,0.05,220.0,7.27
+AXTRART,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า แอ็กซ์ตร้า ฟิวเจอร์ ซิตี้,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,30618404864.0,,13.1,
+BKD,บริษัท บางกอก เดค-คอน จำกัด (มหาชน),อสังหาริมทรัพย์และก่อสร้าง,บริการรับเหมาก่อสร้าง,1323738368.0,,1.23,
+BLISS,บริษัท บลิส อินเทลลิเจนซ์ จำกัด (มหาชน),เทคโนโลยี,เทคโนโลยีสารสนเทศและการสื่อสาร,996244800.0,,0.03091,
+CHO,บริษัท ช ทวี จำกัด (มหาชน),Farm & Heavy Construction Machinery,Industrials,38311740.0,-0.556,0.05,
+CPNCG,กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ CPN คอมเมอร์เชียล โกรท,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,2645161728.0,,6.2,
+CPT,บริษัท ซีพีที ไดร์ แอนด์ เพาเวอร์ จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,900000000.0,,1.0,2.5
+GSTEEL,บริษัท จี สตีล จำกัด (มหาชน),สินค้าอุตสาหกรรม,เหล็ก และ ผลิตภัณฑ์โลหะ,2603592192.0,,0.09,
+HPF,กองทุนรวมอสังหาริมทรัพย์และสิทธิการเช่าเหมราชอินดัสเตรียล,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,2538000128.0,,5.4,
+GCAP,บริษัท จี แคปปิตอล จำกัด (มหาชน),Credit Services,Financial Services,146312288.0,0.732,0.27,
+ISSARA,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์อิสสระ,,,745000000.0,,7.45,
+IDG,บริษัท อินดิจี จำกัด (มหาชน),Information Technology Services,Technology,165000000.0,,1.65,4.25
+KKC,บริษัท กุลธรเคอร์บี้ จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,60000000.0,-0.476,0.04,
+KPNREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์เคพีเอ็น,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,358200000.0,,1.99,
+JAS,บริษัท จัสมิน อินเตอร์เนชั่นแนล จำกัด (มหาชน),Telecom Services,Communication Services,10365092864.0,0.028,1.25,
+LHHOTEL,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช โฮเทล,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,14370201600.0,,13.7,
+LHRREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า แลนด์ แอนด์ เฮ้าส์ เรซิเดนซ์,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,1405800064.0,,4.26,
+LUXF,กองทุนรวมอสังหาริมทรัพย์ลักซ์ชัวรี่,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,1729200000.0,,8.8,
+MGI,บริษัท มิสแกรนด์ อินเตอร์เนชั่นแนล จำกัด (มหาชน),สินค้าอุปโภคบริโภค,N/A,1218000000.0,,5.8,
+MII,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า เอ็มเอฟซี อินดัสเตรียล อินเวสเมนท์,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,832480000.0,,4.84,
+MIPF,กองทุนรวมอสังหาริมทรัพย์มิลเลียนแนร์,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,1767000064.0,,9.3,
+MAJOR,บริษัท เมเจอร์ ซีนีเพล็กซ์ กรุ้ป จำกัด (มหาชน),Entertainment,Communication Services,5726133248.0,0.291,7.85,3.13
+MALEE,บริษัท มาลีกรุ๊ป จำกัด (มหาชน),Packaged Foods,Consumer Defensive,2510363648.0,,4.6,2.13
+MNIT,กองทุนรวมอสังหาริมทรัพย์เอ็มเอฟซี-นิชดาธานี,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,260820000.0,,1.89,
+MNIT2,กองทุนรวมอสังหาริมทรัพย์นิชดาธานี 2,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,690000000.0,,5.0,
+MNRF,กองทุนรวมอสังหาริมทรัพย์มัลติเนชั่นแนลเรสซิเดนซ์ฟันด์,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,227899984.0,,2.12,
+NUT,บริษัท นูทริชั่น โปรเฟส จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,492000000.0,,4.1,16.2
+NWR,บริษัทเนาวรัตน์พัฒนาการ จำกัด (มหาชน),Engineering & Construction,Industrials,103419256.0,0.663,0.04,
+ONSENS,บริษัท ออนเซ็น รีทรีต แอนด์ สปา กรุ๊ป จำกัด (มหาชน),Leisure,Consumer Cyclical,345000000.0,,1.15,1.53
+POPF,กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ไพร์มออฟฟิศ,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,3323309312.0,,6.9,
+PHG,บริษัท แพทย์รังสิตเฮลท์แคร์กรุ๊ป จำกัด (มหาชน),Medical Care Facilities,Healthcare,3930000128.0,0.331,13.1,5.22
+QHBREIT,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ ควอลิตี้ เฮ้าส์ บิสซิเนส คอมเพล็กซ์,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,2885139968.0,,3.62,
+QHHRREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่า ควอลิตี้ เฮ้าส์ โฮเทล แอนด์ เรซิเดนซ์,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,2402400000.0,,7.15,
+QHOP,กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ควอลิตี้ ฮอสพิทอลลิตี้,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,520336000.0,,2.72,
+PSL,บริษัท พรีเชียส ชิพปิ้ง จำกัด (มหาชน),Marine Shipping,Industrials,12174576640.0,0.665,8.2,5.16
+SIRIPRT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์สิริภิญโญ,REIT - Office,Real Estate,1258000000.0,,7.4,4.73
+SMART,บริษัท สมาร์ทคอนกรีต จำกัด (มหาชน),อสังหาริมทรัพย์และก่อสร้าง,N/A,666604800.0,,0.64,
+SMO,บริษัท กลุ่มสมอทอง จำกัด (มหาชน),Farm Products,Consumer Defensive,3440800000.0,,3.74,9.21
+SEAFCO,บริษัท ซีฟโก้ จำกัด (มหาชน),Engineering & Construction,Industrials,2023516800.0,,2.56,4.58
+SSPF,กองทุนรวมอสังหาริมทรัพย์ศาลาแอทสาทร,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,544419968.0,,3.26,
+SOLAR,บริษัท โซลาร์ตรอน จำกัด (มหาชน),Solar,Technology,222210528.0,0.036,0.17,
+TAPAC,บริษัท ทาพาโก้ จำกัด (มหาชน),อสังหาริมทรัพย์และก่อสร้าง,N/A,222406736.0,,0.54,
+STELLA,บริษัท สเตลล่า เอ็กซ์ จำกัด (มหาชน),Real Estate - Development,Real Estate,3049653504.0,0.506,0.14,
+TIF1,กองทุนรวมอสังหาริมทรัพย์ไทยอินดัสเตรียล 1,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,684000000.0,,7.6,
+TLHPF,กองทุนรวมอสังหาริมทรัพย์ ไทยแลนด์ โฮสพีทาลิตี้,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,860000000.0,,5.0,
+TNPF,กองทุนรวมอสังหาริมทรัพย์และสิทธิการเช่าตรีนิตี้,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,153755696.0,,1.05,
+TSR,บริษัท ทีเอสอาร์ ลิฟวิ่ง โซลูชั่น จำกัด (มหาชน),สินค้าอุปโภคบริโภค,ของใช้ในครัวเรือนและสำนักงาน,84610192.0,,0.14,
+TTLPF,กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์ตลาดไท,อสังหาริมทรัพย์และก่อสร้าง,กองทุนรวมอสังหาริมทรัพย์และกองทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์,1755000064.0,,9.75,
+TURBO,บริษัท เงินเทอร์โบ จำกัด (มหาชน),Financial Conglomerates,Financial Services,4539000320.0,,1.7,
+ZAA,บริษัท ซาเล็คต้า จำกัด (มหาชน),Entertainment,Communication Services,975089408.0,-0.197,1.5,
+YGG,บริษัท อิ๊กดราซิล กรุ๊ป จำกัด (มหาชน),Entertainment,Communication Services,132439376.0,-0.301,0.22,
+YONG,บริษัท ยงคอนกรีต จำกัด (มหาชน),Building Materials,Basic Materials,516800000.0,0.668,0.76,3.85
+YUASA,บริษัท ยัวซ่าแบตเตอรี่ ประเทศไทย จำกัด (มหาชน),Auto Parts,Consumer Cyclical,1582087424.0,0.127,14.7,6.02
+ZEN,บริษัท เซ็น คอร์ปอเรชั่น กรุ๊ป จำกัด (มหาชน),Restaurants,Consumer Cyclical,1729470208.0,0.306,5.8,1.68
+2S,บริษัท 2 เอส เมทัล จำกัด (มหาชน),Steel,Basic Materials,1429989504.0,0.314,2.6,9.02
+88TH,บริษัท 88(ไทยแลนด์) จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,1083750016.0,,5.1,
+A,บริษัท อารียา พรอพเพอร์ตี้ จำกัด (มหาชน),Real Estate - Development,Real Estate,4743200256.0,0.068,4.84,
+A5,บริษัท แอสเซท ไฟว์ กรุ๊ป จำกัด (มหาชน),Real Estate - Development,Real Estate,2155740160.0,0.208,1.83,2.73
+AAI,บริษัท เอเชี่ยน อะไลอันซ์ อินเตอร์เนชั่นแนล จำกัด (มหาชน),Packaged Foods,Consumer Defensive,8520248320.0,-0.014,4.02,6.46
+AAV,บริษัท เอเชีย เอวิเอชั่น จำกัด (มหาชน),Airlines,Industrials,15548499968.0,,1.21,
+ABM,บริษัท เอเชีย ไบโอแมส จำกัด (มหาชน),Utilities - Renewable,Utilities,422193472.0,,0.61,
+ACC,บริษัท แอดวานซ์ คอนเนคชั่น คอร์ปอเรชั่น จำกัด (มหาชน),Conglomerates,Industrials,789740224.0,0.596,0.42,
+ACE,บริษัท แอ๊บโซลูท คลีน เอ็นเนอร์จี้ จำกัด (มหาชน),Utilities - Renewable,Utilities,12480957440.0,0.055,1.28,
+ACG,บริษัท ออโตคอร์ป โฮลดิ้ง จำกัด (มหาชน),Auto & Truck Dealerships,Consumer Cyclical,390000000.0,0.782,0.65,6.35
+ADB,บริษัท แอ็พพลาย ดีบี จำกัด (มหาชน),Specialty Chemicals,Basic Materials,421079936.0,0.07,0.58,5.0
+ADD,บริษัท แอดเทค ฮับ จำกัด (มหาชน),Advertising Agencies,Communication Services,678720000.0,,4.04,9.66
+ADVANC,บริษัท แอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน),Telecom Services,Communication Services,1112354455552.0,0.07,374.0,4.43
+ADVICE,บริษัท แอดไวซ์ ไอที อินฟินิท จำกัด (มหาชน),Electronics & Computer Distribution,Technology,3533999872.0,-0.576,5.7,6.09
+AE,บริษัท ออลล์ เอ็นเนอร์ยี่ แอนด์ ยูทิลิตี้ จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,462876480.0,-0.199,0.09,
+AEONTS,บริษัท อิออน ธนสินทรัพย์ (ไทยแลนด์) จำกัด (มหาชน),Credit Services,Financial Services,23905376256.0,0.143,96.5,5.61
+AF,บริษัท ไอร่า แฟคตอริ่ง จำกัด (มหาชน),Credit Services,Financial Services,576000000.0,-0.337,0.36,4.76
+AFC,บริษัท เอเซียไฟเบอร์ จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,147660608.0,0.429,3.24,
+AGE,บริษัท เอเชีย กรีน เอนเนอจี จำกัด (มหาชน),Thermal Coal,Energy,1352071424.0,0.003,1.13,
+AH,บริษัท อาปิโก ไฮเทค จำกัด (มหาชน),Auto Parts,Consumer Cyclical,4906876416.0,0.25,14.6,6.44
+AHC,บริษัท โรงพยาบาลเอกชล จำกัด (มหาชน),Medical Care Facilities,Healthcare,2023775104.0,0.102,13.5,3.82
+AI,บริษัท เอเชียน อินซูเลเตอร์ จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,2141997056.0,0.238,3.06,12.66
+AIE,บริษัท เอไอ เอนเนอร์จี จำกัด (มหาชน),Farm Products,Consumer Defensive,1480894976.0,-0.551,1.07,4.59
+AIMCG,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ เอไอเอ็ม คอมเมอร์เชียล โกรท,REIT - Retail,Real Estate,394560000.0,,1.37,17.52
+AIMIRT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ เอไอเอ็ม อินดัสเทรียล โกรท,REIT - Industrial,Real Estate,9023100928.0,0.103,11.4,7.19
+AIRA,บริษัท ไอร่า แคปปิตอล จำกัด (มหาชน),Capital Markets,Financial Services,7135812608.0,0.167,1.13,
+AIT,บริษัท แอ็ดวานซ์อินฟอร์เมชั่นเทคโนโลยี จำกัด (มหาชน),Information Technology Services,Technology,7620621312.0,0.474,4.96,7.23
+AJ,บริษัท เอ.เจ.พลาสท์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,972292032.0,0.401,1.63,
+ARROW,บริษัท แอร์โรว์ ซินดิเคท จำกัด (มหาชน),Building Products & Equipment,Industrials,1374398336.0,0.199,5.35,7.27
+AJA,บริษัท เอเจ แอดวานซ์ เทคโนโลยี จำกัด (มหาชน),Electronics & Computer Distribution,Technology,965617152.0,0.42,0.18,
+AKP,บริษัท อัคคีปราการ จำกัด (มหาชน),Waste Management,Industrials,286840000.0,0.922,0.71,6.3
+NAM,บริษัท นำวิวัฒน์ เมดิคอล คอร์ปอเรชั่น จำกัด (มหาชน),Medical Devices,Healthcare,2604000000.0,0.36,3.72,6.51
+AKR,บริษัท เอกรัฐวิศวกรรม จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,1309988992.0,0.039,0.89,7.14
+AKS,บริษัท เอเคเอส คอร์ปอเรชั่น จำกัด (มหาชน),Real Estate - Development,Real Estate,81465992.0,-0.593,0.02,
+ALLA,บริษัท ออลล่า จำกัด (มหาชน),Industrial Distribution,Industrials,732000000.0,0.276,1.22,8.06
+ALLY,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ อัลไล,REIT - Retail,Real Estate,3846040064.0,0.314,4.4,10.0
+ALPHAX,บริษัท อัลฟ่า ดิวิชั่นส์ จำกัด (มหาชน),Real Estate - Development,Real Estate,4367415808.0,-0.225,0.47,
+AMA,บริษัท อาม่า มารีน จำกัด (มหาชน),Marine Shipping,Industrials,2175250432.0,-0.159,4.2,7.14
+AMANAH,บริษัท อะมานะฮ์ ลิสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,888091392.0,0.19,0.75,
+AMARC,บริษัท ศูนย์ห้องปฏิบัติการและวิจัยทางการแพทย์และการเกษตรแห่งเอเซีย จำกัด (มหาชน),Scientific & Technical Instruments,Technology,1436400000.0,0.33,3.42,7.76
+AMARIN,บริษัท อมรินทร์ คอร์เปอเรชั่นส์ จำกัด (มหาชน),Publishing,Communication Services,2715325952.0,,2.72,2.21
+AMATA,บริษัท อมตะ คอร์ปอเรชัน จำกัด (มหาชน),Real Estate - Development,Real Estate,21849999360.0,0.187,19.0,4.62
+ARIN,บริษัท อรินสิริ แลนด์ จำกัด (มหาชน),Real Estate - Development,Real Estate,354000000.0,,0.59,
+AMATAR,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอมตะซัมมิทโกรท,REIT - Industrial,Real Estate,2379968512.0,0.308,6.65,6.99
+AMATAV,บริษัท อมตะ วีเอ็น จำกัด (มหาชน),Real Estate Services,Real Estate,2387612160.0,0.064,2.24,2.19
+AMC,บริษัท เอเซีย เมทัล จำกัด (มหาชน),Steel,Basic Materials,998600256.0,0.644,2.08,3.77
+AMR,บริษัท เอเอ็มอาร์ เอเซีย จำกัด (มหาชน),Engineering & Construction,Industrials,224469808.0,-0.031,0.38,
+ANAN,บริษัท อนันดา ดีเวลลอปเม้นท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,1749827072.0,-0.001,0.42,
+ANI,บริษัท เอเชีย เน็ตเวิร์ค อินเตอร์เนชั่นแนล จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,5174400000.0,0.019,2.8,1.77
+AOT,บริษัท ท่าอากาศยานไทย จำกัด (มหาชน),Airports & Air Services,Industrials,746427842560.0,0.102,52.25,1.49
+AP,บริษัท เอพี (ไทยแลนด์) จำกัด (มหาชน),Real Estate - Development,Real Estate,28627687424.0,0.382,9.1,6.28
+APCO,บริษัท เอเชียน ไฟย์โตซูติคอลส์ จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,1668000000.0,,2.78,3.25
+APCS,บริษัท เอเซีย พรีซิชั่น จำกัด (มหาชน),Engineering & Construction,Industrials,871199936.0,0.085,1.32,
+APO,บริษัท เอเชียนน้ำมันปาล์ม จำกัด (มหาชน),Packaged Foods,Consumer Defensive,639200000.0,,1.88,10.29
+APP,บริษัท แอพพลิแคด จำกัด (มหาชน),Software - Application,Technology,750400000.0,0.461,2.68,8.52
+APURE,บริษัท อกริเพียว โฮลดิ้งส์ จำกัด (มหาชน),Farm Products,Consumer Defensive,2101095680.0,-0.05,2.26,9.24
+AQUA,บริษัท อควา คอร์เปอเรชั่น จำกัด (มหาชน),Advertising Agencies,Communication Services,856868608.0,0.029,0.15,
+ARIP,บริษัท เออาร์ไอพี จำกัด (มหาชน),Specialty Business Services,Industrials,219020000.0,,0.47,4.35
+AS,บริษัท แอสเฟียร์ อินโนเวชั่นส์ จำกัด (มหาชน),Electronic Gaming & Multimedia,Communication Services,1467785472.0,,2.94,6.54
+ASAP,บริษัท ซินเนอร์เจติค ออโต้ เพอร์ฟอร์มานซ์ จำกัด (มหาชน),Rental & Leasing Services,Industrials,856679936.0,0.096,1.18,
+ASEFA,บริษัท อาซีฟา จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,2129538560.0,-0.012,4.12,8.41
+ASIA,บริษัท เอเชียโฮเต็ล จำกัด (มหาชน),Lodging,Consumer Cyclical,1952000000.0,0.043,6.1,2.2
+ASIAN,บริษัท เอเชี่ยนซี คอร์ปอเรชั่น จำกัด (มหาชน),Packaged Foods,Consumer Defensive,6086606848.0,-0.364,7.5,6.51
+ASIMAR,บริษัท เอเชียน มารีน เซอร์วิสส์ จำกัด (มหาชน),Aerospace & Defense,Industrials,413265760.0,0.105,1.6,7.1
+ASK,บริษัท เอเซียเสริมกิจลีสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,6474880000.0,0.571,9.2,4.21
+ASN,บริษัท เอเอสเอ็น โบรกเกอร์ จำกัด (มหาชน),Insurance Brokers,Financial Services,140399968.0,,0.75,
+ASP,บริษัท เอเซีย พลัส กรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Capital Markets,Financial Services,4521380864.0,0.312,2.22,3.88
+ASW,บริษัท แอสเซทไวส์ จำกัด (มหาชน),Real Estate - Development,Real Estate,7287931392.0,-0.041,8.1,6.58
+ATLAS,บริษัท แอตลาส เอ็นเนอยี จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,2638261248.0,,1.86,7.81
+ATP30,บริษัท เอทีพี 30 จำกัด (มหาชน),Railroads,Industrials,627725312.0,0.092,0.92,4.26
+AU,บริษัท อาฟเตอร์ ยู จำกัด (มหาชน),Restaurants,Consumer Cyclical,4118899200.0,,5.05,4.76
+AUCT,บริษัท สหการประมูล จำกัด (มหาชน),Auto & Truck Dealerships,Consumer Cyclical,2915000064.0,-0.043,5.3,7.66
+AURA,บริษัท ออโรร่า ดีไซน์ จำกัด (มหาชน),Luxury Goods,Consumer Cyclical,19876599808.0,-0.084,14.9,3.68
+AWC,บริษัท แอสเสท เวิรด์ คอร์ป จำกัด (มหาชน),Lodging,Consumer Cyclical,75550613504.0,0.203,2.36,3.2
+AYUD,บริษัท อลิอันซ์ อยุธยา แคปปิตอล จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,14792143872.0,0.069,38.0,5.99
+B,บริษัท บี จิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,322960352.0,0.22,0.04,
+B52,บริษัท บี-52 แคปปิตอล จำกัด (มหาชน),Real Estate Services,Real Estate,271695360.0,-0.07,0.27,
+BA,บริษัท การบินกรุงเทพ จำกัด (มหาชน),Airlines,Industrials,34191837184.0,0.08,16.3,6.7
+BAFS,บริษัท บริการเชื้อเพลิงการบินกรุงเทพ จำกัด (มหาชน),Airports & Air Services,Industrials,5928714240.0,0.191,9.3,3.42
+BAM,บริษัทบริหารสินทรัพย์ กรุงเทพพาณิชย์ จำกัด (มหาชน),Asset Management,Financial Services,24078714880.0,0.591,7.45,6.58
+BANPU,บริษัท บ้านปู จำกัด (มหาชน),Thermal Coal,Energy,56606801920.0,0.535,5.65,6.32
+BAREIT,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์สนามบินการบินกรุงเทพ,REIT - Specialty,Real Estate,11569599488.0,0.458,11.2,7.08
+BAY,ธนาคารกรุงศรีอยุธยา จำกัด (มหาชน),Banks - Regional,Financial Services,193088749568.0,0.174,26.25,4.86
+BBGI,บริษัท บีบีจีไอ จำกัด (มหาชน),Utilities - Renewable,Utilities,4916400128.0,0.807,3.4,4.6
+BBIK,บริษัท บลูบิค กรุ๊ป จำกัด (มหาชน),Consulting Services,Industrials,4360336896.0,-0.26,21.8,2.11
+BBL,ธนาคารกรุงเทพ จำกัด (มหาชน),Banks - Regional,Financial Services,334047510528.0,0.124,175.0,9.3
+BC,บริษัท บูทิค คอร์ปอเรชั่น จำกัด (มหาชน),Real Estate - Diversified,Real Estate,397808768.0,0.088,0.69,7.32
+BCH,บริษัท บางกอก เชน ฮอสปิทอล จำกัด (มหาชน),Medical Care Facilities,Healthcare,26685800448.0,0.158,10.7,4.09
+CSP,บริษัท ซีเอสพี สตีลเซ็นเตอร์ จำกัด (มหาชน),Steel,Basic Materials,198467536.0,-0.025,0.4,
+BCP,บริษัท บางจาก คอร์ปอเรชั่น จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,54487703552.0,0.635,37.0,2.78
+BCPG,บริษัท บีซีพีจี จำกัด (มหาชน),Utilities - Renewable,Utilities,23366924288.0,0.48,7.8,4.32
+BCT,บริษัท เบอร์ล่า คาร์บอน (ไทยแลนด์) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,15150000128.0,0.322,50.5,1.98
+BDMS,บริษัท กรุงเทพดุสิตเวชการ จำกัด(มหาชน),Medical Care Facilities,Healthcare,336910450688.0,,21.2,3.69
+BE8,บริษัท เบริล 8 พลัส จำกัด (มหาชน),Information Technology Services,Technology,1548548480.0,0.267,5.85,0.63
+BEAUTY,บริษัท บิวตี้ คอมมูนิตี้ จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,1077909632.0,0.318,0.36,
+BEC,บริษัท บีอีซี เวิลด์ จำกัด (มหาชน),Broadcasting,Communication Services,4199999744.0,0.32,2.1,4.5
+BEM,บริษัท ทางด่วนและรถไฟฟ้ากรุงเทพ จำกัด (มหาชน),Railroads,Industrials,90616160256.0,0.154,6.05,2.42
+BEYOND,บริษัท เบาด์ แอนด์ บียอนด์ จำกัด (มหาชน),Lodging,Consumer Cyclical,2509094400.0,-0.08,8.65,
+BGC,บริษัท บีจี คอนเทนเนอร์ กล๊าส จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,2986109440.0,-0.133,4.3,3.13
+BGRIM,บริษัท บี.กริม เพาเวอร์ จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,36496601088.0,,14.0,2.69
+BGT,บริษัท บีจีที คอร์ปอเรชั่น จำกัด (มหาชน),Apparel Retail,Consumer Cyclical,145407968.0,-0.298,0.4,
+BH,บริษัท โรงพยาบาลบำรุงราษฎร์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,153825591296.0,-0.188,193.5,2.35
+BIG,บริษัท บิ๊ก คาเมร่า คอร์ปอเรชั่น จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,1023374848.0,0.451,0.29,3.33
+BIOTEC,บริษัท ไบโอ กรีน เอ็นเนอร์ยี่ เทค จำกัด (มหาชน),Specialty Chemicals,Basic Materials,580138048.0,-0.47,0.19,
+BIS,บริษัท ไบโอซายน์ แอนิมัล เฮลธ์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,615440000.0,0.69,1.96,4.0
+BIZ,บริษัท บิสซิเนสอะไลเม้นท์ จำกัด (มหาชน),Medical Devices,Healthcare,3123821824.0,0.392,5.2,9.43
+BJC,บริษัท เบอร์ลี่ ยุคเกอร์ จำกัด (มหาชน),Conglomerates,Industrials,62922407936.0,,15.7,3.19
+BJCHI,บริษัท บีเจซี เฮฟวี่ อินดัสทรี จำกัด (มหาชน),Metal Fabrication,Industrials,920344000.0,0.134,0.58,2.8
+CGH,บริษัท คันทรี่ กรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Capital Markets,Financial Services,1785552896.0,0.371,0.43,
+BKGI,บริษัท แบงคอกจีโนมิกส์อินโนเวชั่น จำกัด (มหาชน),Diagnostics & Research,Healthcare,876000000.0,,1.46,3.38
+BKIH,บริษัท บีเคไอ โฮลดิ้งส์ จำกัด (มหาชน),Insurance - Diversified,Financial Services,32461780992.0,,312.0,7.96
+BLA,บริษัท กรุงเทพประกันชีวิต จำกัด (มหาชน),Insurance - Life,Financial Services,36029640704.0,0.138,21.1,4.02
+BLAND,บริษัท บางกอกแลนด์ จำกัด (มหาชน),Real Estate Services,Real Estate,7982208000.0,0.339,0.46,2.08
+BLC,บริษัท บางกอกแล็ป แอนด์ คอสเมติค จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,2340000000.0,0.549,3.9,8.5
+BLESS,บริษัท เบล็ส แอสเสท กรุ๊ป จำกัด (มหาชน),Real Estate - Development,Real Estate,184000000.0,,0.23,
+BM,บริษัท บางกอกชีทเม็ททัล จำกัด (มหาชน),Metal Fabrication,Industrials,673018752.0,,1.04,20.56
+BOFFICE,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ภิรัชออฟฟิศ,REIT - Office,Real Estate,3984509184.0,0.33,5.4,10.77
+BOL,บริษัท บิซิเนส ออนไลน์ จำกัด (มหาชน),Consulting Services,Industrials,4143552768.0,0.106,5.05,6.37
+BPP,บริษัท บ้านปู เพาเวอร์ จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,35963236352.0,0.513,11.8,5.88
+BPS,บริษัท บีพีเอส เทคโนโลยี จำกัด (มหาชน),Electronics & Computer Distribution,Technology,164000000.0,,0.41,2.98
+BR,บริษัท บางกอกแร้นช์ จำกัด (มหาชน),Farm Products,Consumer Defensive,1534590080.0,0.34,1.68,1.18
+BRI,บริษัท บริทาเนีย จำกัด (มหาชน),Real Estate - Development,Real Estate,2092623872.0,0.434,1.44,2.33
+BROCK,บริษัท บ้านร็อคการ์เด้น จำกัด (มหาชน),Real Estate - Development,Real Estate,1373500288.0,,1.34,
+BRR,บริษัท น้ำตาลบุรีรัมย์ จำกัด (มหาชน),Confectioners,Consumer Defensive,3069739264.0,-0.147,3.78,4.23
+NAT,บริษัท แนท แอบโซลูท เทคโนโลยีส์ จำกัด (มหาชน),Information Technology Services,Technology,800048000.0,,2.48,13.78
+BSBM,บริษัท บางสะพานบาร์มิล จำกัด (มหาชน),Steel,Basic Materials,627858048.0,0.293,0.56,
+BSM,บริษัท บิวเดอสมาร์ท จำกัด (มหาชน),Building Products & Equipment,Industrials,85220248.0,,0.4,
+BTC,บริษัท บรุ๊คเคอร์ กรุ๊ป จำกัด (มหาชน),Financial Conglomerates,Financial Services,2268172288.0,0.421,0.21,10.23
+BTG,บริษัท เบทาโกร จำกัด (มหาชน),Farm Products,Consumer Defensive,41402880000.0,,21.6,6.85
+BTNC,บริษัท บูติคนิวซิตี้ จำกัด (มหาชน),Apparel Retail,Consumer Cyclical,240000000.0,0.091,20.0,7.43
+BTS,บริษัท บีทีเอส กรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Railroads,Industrials,37015748608.0,0.011,2.3,
+BTW,บริษัท บีที เวลธ์ อินดัสตรีส์ จำกัด (มหาชน),Metal Fabrication,Industrials,75600000.0,0.003,0.1,
+BUI,บริษัท บางกอกสหประกันภัย จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,680597632.0,-0.206,13.2,21.88
+BVG,บริษัท บลูเวนเจอร์ กรุ๊ป จำกัด (มหาชน),Software - Application,Technology,769500032.0,1.21,1.71,4.71
+BWG,บริษัท เบตเตอร์ เวิลด์ กรีน จำกัด (มหาชน),Waste Management,Industrials,1740362624.0,0.955,0.3,
+BYD,บริษัทหลักทรัพย์ บียอนด์ จำกัด (มหาชน),Capital Markets,Financial Services,3230589696.0,0.612,0.62,
+CAZ,บริษัท ซี เอ แซด (ประเทศไทย) จำกัด (มหาชน),Engineering & Construction,Industrials,458639968.0,0.368,1.56,
+CBG,บริษัท คาราบาวกรุ๊ป จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,44250001408.0,0.501,44.25,2.64
+CCET,บริษัท แคล-คอมพ์ อีเล็คโทรนิคส์ (ประเทศไทย) จำกัด (มหาชน),Computer Hardware,Technology,54862516224.0,0.124,5.25,3.21
+CCP,บริษัท ผลิตภัณฑ์คอนกรีตชลบุรี จำกัด (มหาชน),Building Materials,Basic Materials,747368192.0,-0.126,0.27,3.57
+CEN,บริษัท แคปปิทอล เอ็นจิเนียริ่ง เน็ตเวิร์ค จำกัด (มหาชน),Steel,Basic Materials,521613344.0,-0.436,0.7,
+CENTEL,บริษัท โรงแรมเซ็นทรัลพลาซา จำกัด (มหาชน),Resorts & Casinos,Consumer Cyclical,50287501312.0,,37.25,1.66
+CEYE,บริษัท ตาชำนิ จำกัด (มหาชน),Leisure,Consumer Cyclical,463936096.0,0.099,1.6,4.66
+CFARM,บริษัท ชูวิทย์ฟาร์ม (2019) จำกัด (มหาชน),Farm Products,Consumer Defensive,429200000.0,,0.74,2.67
+CFRESH,บริษัท ซีเฟรชอินดัสตรี จำกัด (มหาชน),Packaged Foods,Consumer Defensive,713866368.0,,0.77,
+CGD,บริษัท คันทรี่ กรุ๊ป ดีเวลลอปเมนท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,991935424.0,-0.353,0.12,
+CH,บริษัท เจริญอุตสาหกรรม จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1360000000.0,0.342,1.7,1.75
+CHAO,บริษัท เจ้าสัว ฟู้ดส์ อินดัสทรี จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1351194368.0,,4.54,3.7
+CHARAN,บริษัท จรัญประกันภัย จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,190800000.0,0.19,15.9,
+CHASE,บริษัท เชฎฐ์ เอเชีย จำกัด (มหาชน),Credit Services,Financial Services,973278976.0,0.161,0.49,2.0
+CHAYO,บริษัท ชโย กรุ๊ป จำกัด (มหาชน),Credit Services,Financial Services,1340454656.0,,1.15,0.12
+CHEWA,บริษัท ชีวาทัย จำกัด (มหาชน),Real Estate - Development,Real Estate,242255488.0,0.144,0.19,
+CHG,บริษัท โรงพยาบาลจุฬารัตน์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,17600002048.0,-0.035,1.6,4.24
+CHIC,บริษัท ชิค รีพับบลิค จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,462400000.0,-0.287,0.34,
+CHOTI,บริษัท ห้องเย็นโชติวัฒน์หาดใหญ่ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,483750016.0,0.085,64.5,
+CHOW,บริษัท เชาว์ ไบรท์ เวนเจอร์ส โฮลดิ้งส์ จำกัด (มหาชน),Steel,Basic Materials,1032000000.0,0.076,1.29,
+CI,บริษัท ชาญอิสสระ ดีเวล็อปเมนท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,352062752.0,-0.041,0.33,
+CIG,บริษัท ซี.ไอ.กรุ๊ป จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,112097328.0,0.568,0.03,
+CIMBT,ธนาคาร ซีไอเอ็มบี ไทย จำกัด (มหาชน),Banks - Regional,Financial Services,12884237312.0,-0.115,0.37,10.81
+CITY,บริษัท ซิตี้ สตีล จำกัด (มหาชน),Metal Fabrication,Industrials,435000000.0,-0.095,1.45,
+CIVIL,บริษัท ซีวิลเอนจีเนียริง จำกัด (มหาชน),Engineering & Construction,Industrials,651000000.0,0.264,0.93,2.02
+CK,บริษัท ช.การช่าง จำกัด (มหาชน),Engineering & Construction,Industrials,28566046720.0,0.198,17.0,2.84
+CSR,บริษัท เทพธานีกรีฑา จำกัด (มหาชน),Leisure,Consumer Cyclical,1363250048.0,-0.093,66.5,2.94
+CKP,บริษัท ซีเค พาวเวอร์ จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,19673106432.0,-0.01,2.42,3.49
+CM,บริษัท เชียงใหม่โฟรเซ่นฟูดส์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,632701888.0,-0.211,1.66,1.86
+CMAN,บริษัท เคมีแมน จำกัด (มหาชน),Specialty Chemicals,Basic Materials,2457600000.0,0.362,2.56,5.64
+CMC,บริษัท เจ้าพระยามหานคร จำกัด (มหาชน),Real Estate - Diversified,Real Estate,518040160.0,0.032,0.47,
+CMO,บริษัท ซีเอ็มโอ จำกัด (มหาชน),Advertising Agencies,Communication Services,242919664.0,0.402,0.57,
+CMR,บริษัท เชียงใหม่รามธุรกิจการแพทย์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,5862419968.0,0.097,1.44,19.16
+CNT,บริษัท คริสเตียนีและนีลเส็น (ไทย) จำกัด (มหาชน),Engineering & Construction,Industrials,1130694528.0,0.547,1.1,3.6
+COCOCO,บริษัท ไทย โคโคนัท จำกัด (มหาชน),Packaged Foods,Consumer Defensive,8452499968.0,,5.75,2.0
+COLOR,บริษัท สาลี่ คัลเล่อร์ จำกัด (มหาชน),Specialty Chemicals,Basic Materials,600744320.0,,1.02,2.94
+COM7,บริษัท คอมเซเว่น จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,55405920256.0,,23.5,4.56
+COMAN,บริษัท โคแมนชี่ อินเตอร์เนชั่นแนล จำกัด (มหาชน),Electronics & Computer Distribution,Technology,71985296.0,,0.43,
+CPALL,บริษัท ซีพี ออลล์ จำกัด (มหาชน),Grocery Stores,Consumer Defensive,454690668544.0,0.353,51.0,3.19
+CPANEL,บริษัท ซีแพนเนล จำกัด (มหาชน),Building Materials,Basic Materials,313302848.0,,1.92,
+CPAXT,บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน),Food Distribution,Consumer Defensive,179355779072.0,0.174,17.2,7.38
+CPF,บริษัท เจริญโภคภัณฑ์อาหาร จำกัด (มหาชน),Farm Products,Consumer Defensive,159281135616.0,0.041,20.6,2.38
+CPH,บริษัท คาสเซ่อร์พีคโฮลดิ้งส์ จำกัด (มหาชน),Apparel Manufacturing,Consumer Cyclical,376000000.0,0.606,9.4,7.77
+CSS,บริษัท คอมมิวนิเคชั่น แอนด์ ซิสเต็มส์ โซลูชั่น จำกัด (มหาชน),Electronics & Computer Distribution,Technology,905319104.0,,0.77,10.26
+CPI,บริษัท ชุมพรอุตสาหกรรมน้ำมันปาล์ม จำกัด (มหาชน),Farm Products,Consumer Defensive,2277909504.0,0.386,3.6,6.08
+CPL,บริษัท ซีพีแอล กรุ๊ป จำกัด (มหาชน),Footwear & Accessories,Consumer Cyclical,294695680.0,0.191,0.67,
+CPN,บริษัท เซ็นทรัลพัฒนา จำกัด (มหาชน),Real Estate - Diversified,Real Estate,307427999744.0,0.507,68.5,3.43
+EMPIRE,บริษัท ออริจิ้น โกลบอล เอมไพร์ จำกัด (มหาชน),Building Products & Equipment,Industrials,329800000.0,0.481,0.68,
+EP,บริษัท อีสเทอร์น พาวเวอร์ กรุ๊ป จำกัด (มหาชน),Specialty Business Services,Industrials,1137658624.0,0.245,1.22,
+CPNREIT,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ CPN รีเทล โกรท,REIT - Diversified,Real Estate,43090780160.0,0.318,11.9,9.01
+CPR,บริษัท ซีพีอาร์ โกมุ อินดัสเตรียล จำกัด (มหาชน),Auto Parts,Consumer Cyclical,573120000.0,-0.159,2.88,1.22
+CPW,บริษัท คอปเปอร์ ไวร์ด จำกัด (มหาชน),Electronics & Computer Distribution,Technology,1368000000.0,,2.28,8.19
+CRANE,บริษัท ชูไก จำกัด (มหาชน),Rental & Leasing Services,Industrials,333602720.0,0.044,0.44,
+CRC,บริษัท เซ็นทรัล รีเทล คอร์ปอเรชั่น จำกัด (มหาชน),Department Stores,Consumer Cyclical,120619999232.0,0.161,20.0,2.91
+CRD,บริษัท เชียงใหม่ริมดอย จำกัด (มหาชน),Engineering & Construction,Industrials,175000000.0,-0.562,0.35,
+CREDIT,ธนาคารไทยเครดิต จำกัด (มหาชน),Banks - Regional,Financial Services,22844524544.0,0.296,18.5,3.17
+CSC,บริษัท ฝาจีบ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,2353035008.0,0.129,45.25,6.45
+CTARAF,กองทุนรวมสิทธิการเช่าอสังหาริมทรัพย์โรงแรมและรีสอร์ทในเครือฯ,,,1523200128.0,0.055,4.76,
+CTW,บริษัท จรุงไทยไวร์แอนด์เคเบิ้ล จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,1193718784.0,0.156,3.0,1.67
+CV,บริษัท โคลเวอร์ เพาเวอร์ จำกัด (มหาชน),Utilities - Renewable,Utilities,25647054.0,0.556,0.03,
+CWT,บริษัท ชัยวัฒนา แทนเนอรี่ กรุ๊ป จำกัด (มหาชน),Auto Parts,Consumer Cyclical,567104832.0,0.531,0.9,
+D,บริษัท เดนทัล คอร์ปอเรชั่น จำกัด (มหาชน),Medical Care Facilities,Healthcare,999211136.0,-0.431,2.92,7.09
+DCC,บริษัท ไดนาสตี้เซรามิค จำกัด (มหาชน),Building Products & Equipment,Industrials,11163002880.0,0.208,1.23,3.2
+DCON,บริษัท ดีคอนโปรดักส์ จำกัด (มหาชน),Building Materials,Basic Materials,1292721664.0,0.48,0.24,1.2
+DDD,บริษัท ดู เดย์ ดรีม จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,1961510144.0,0.038,6.2,2.79
+DELTA,บริษัทเดลต้า อีเลคโทรนิคส์ (ประเทศไทย) จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,3567511404544.0,0.655,286.0,0.22
+DEMCO,บริษัท เด็มโก้ จำกัด (มหาชน),Engineering & Construction,Industrials,1787329408.0,0.694,2.38,
+DEXON,บริษัท เด็กซ์ซอน เทคโนโลยี จำกัด (มหาชน),Oil & Gas Equipment & Services,Energy,500324992.0,1.147,1.05,5.83
+DHOUSE,บริษัท ดีเฮ้าส์พัฒนา จำกัด (มหาชน),Real Estate - Development,Real Estate,344533344.0,-0.296,0.38,
+EPG,บริษัท อีสเทิร์นโพลีเมอร์ กรุ๊ป จำกัด (มหาชน),Specialty Chemicals,Basic Materials,10752000000.0,0.163,3.84,3.59
+ERW,บริษัท ดิ เอราวัณ กรุ๊ป จำกัด (มหาชน),Lodging,Consumer Cyclical,15149480960.0,,3.1,2.19
+ESTAR,บริษัท อีสเทอร์น สตาร์ เรียล เอสเตท จำกัด (มหาชน),Real Estate - Development,Real Estate,1104894208.0,0.407,0.22,5.26
+ETC,บริษัท เอิร์ธ เท็ค เอนไวรอนเมนท์ จำกัด (มหาชน),Utilities - Renewable,Utilities,1388800000.0,0.716,0.62,7.62
+ETE,บริษัท บูรพา เทคนิคอล เอ็นจิเนียริ่ง จำกัด (มหาชน),Conglomerates,Industrials,324800000.0,0.463,0.58,
+ETL,บริษัท ยูโรเอเชีย โทเทิล โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,322400000.0,1.82,0.52,
+EURO,บริษัท ยูโร ครีเอชั่นส์ จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,1372499968.0,-0.21,4.5,5.48
+EVER,บริษัท เอเวอร์แลนด์ จำกัด (มหาชน),Real Estate - Development,Real Estate,242739328.0,0.128,0.05,
+F&D,บริษัท ฟู้ดแอนด์ดริ๊งส์ จำกัด (มหาชน),,,881214976.0,0.031,50.0,
+DIMET,บริษัท ไดเมท (สยาม) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,134550128.0,-0.513,0.05,
+DITTO,บริษัท ดิทโต้ (ประเทศไทย) จำกัด (มหาชน),Information Technology Services,Technology,8535137280.0,-0.344,12.3,3.97
+DMT,บริษัท ทางยกระดับดอนเมือง จำกัด (มหาชน),Infrastructure Operations,Industrials,13111684096.0,0.473,11.1,7.86
+DOD,บริษัท ดีโอดี ไบโอเทค จำกัด (มหาชน),Packaged Foods,Consumer Defensive,869299520.0,0.797,1.93,2.48
+DOHOME,บริษัท ดูโฮม จำกัด (มหาชน),Home Improvement Retail,Consumer Cyclical,12653491200.0,0.104,3.74,0.11
+DPAINT,บริษัท สีเดลต้า จำกัด (มหาชน),Specialty Chemicals,Basic Materials,165600000.0,0.184,0.72,
+DREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดุสิตธานี,REIT - Hotel & Motel,Real Estate,3593075200.0,-0.007,5.05,7.45
+DRT,บริษัท ผลิตภัณฑ์ตราเพชร จำกัด (มหาชน),Building Products & Equipment,Industrials,4011443712.0,0.235,4.94,6.21
+DTCENT,บริษัท ดี.ที.ซี. เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Scientific & Technical Instruments,Technology,1249985664.0,0.591,0.95,6.27
+DTCI,บริษัท ดี.ที.ซี.อินดัสตรี่ส์ จำกัด (มหาชน),Business Equipment & Supplies,Industrials,200000000.0,0.195,20.0,
+DUSIT,บริษัท ดุสิตธานี จำกัด (มหาชน),Lodging,Consumer Cyclical,9382664192.0,,11.1,
+DV8,บริษัท ดีวี8 จำกัด (มหาชน),Broadcasting,Communication Services,7266260480.0,0.977,4.48,
+EA,บริษัท พลังงานบริสุทธิ์ จำกัด (มหาชน),Utilities - Renewable,Utilities,21240649728.0,0.642,2.86,
+EASON,บริษัท อีซึ่น แอนด์ โค จำกัด (มหาชน),Specialty Chemicals,Basic Materials,581504256.0,0.033,1.08,5.56
+EAST,บริษัท ตะวันออกพาณิชย์ลีสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,1198411648.0,0.074,0.72,2.63
+EASTW,บริษัท จัดการและพัฒนาทรัพยากรน้ำภาคตะวันออก จำกัด (มหาชน),Utilities - Regulated Water,Utilities,4591881728.0,0.51,2.76,0.35
+ECF,บริษัท อีสต์โคสท์เฟอร์นิเทค จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,57287124.0,-0.564,0.05,
+EFORL,บริษัท อี ฟอร์ แอล เอม จำกัด (มหาชน),Medical Distribution,Healthcare,559786816.0,-0.014,0.14,
+EGCO,บริษัท ผลิตไฟฟ้า จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,63175798784.0,0.311,120.0,5.26
+EKH,บริษัท เอกชัยการแพทย์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,4080000000.0,-0.065,5.1,16.5
+EMC,บริษัท อีเอ็มซี จำกัด (มหาชน),Engineering & Construction,Industrials,251412656.0,-0.18,0.02,
+FANCY,บริษัท แฟนซีวู๊ด อินดัสตรีส จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,184500000.0,0.122,0.3,
+FE,บริษัท ฟาร์อีสท์ เฟมไลน์ ดีดีบี จำกัด (มหาชน),Advertising Agencies,Communication Services,1455949952.0,0.18,185.0,6.49
+FLOYD,บริษัท ฟลอยด์ จำกัด (มหาชน),Engineering & Construction,Industrials,502220448.0,0.241,1.13,8.7
+FM,บริษัท ฟู้ดโมเม้นท์ จำกัด (มหาชน),Farm Products,Consumer Defensive,3793258752.0,,3.84,8.97
+FMT,บริษัท ไฟน์ เม็ททัล เทคโนโลยีส์ จำกัด (มหาชน),Metal Fabrication,Industrials,1075200000.0,,22.4,4.42
+FN,บริษัท เอฟเอ็น แฟคตอรี่ เอ๊าท์เลท จำกัด (มหาชน),Apparel Retail,Consumer Cyclical,450000000.0,-0.062,0.45,
+FNS,บริษัท เอฟเอ็นเอส โฮลดิ้งส์ จำกัด (มหาชน),Asset Management,Financial Services,465605504.0,0.361,0.93,
+FORTH,บริษัท ฟอร์ท คอร์ปอเรชั่น จำกัด (มหาชน),Conglomerates,Industrials,7529766912.0,0.12,8.05,
+FPI,บริษัท ฟอร์จูน พาร์ท อินดัสตรี้ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,2708323328.0,0.209,1.79,4.47
+FPT,บริษัท เฟรเซอร์ส พร็อพเพอร์ตี้ (ประเทศไทย) จำกัด (มหาชน),Real Estate - Development,Real Estate,14843373568.0,0.051,6.4,4.92
+FSMART,บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (มหาชน),Telecom Services,Communication Services,5159017984.0,-0.161,6.85,5.56
+FSX,บริษัท ฟินันเซีย เอกซ์ จำกัด (มหาชน),Capital Markets,Financial Services,1389892992.0,,1.22,
+FTE,บริษัท ไฟร์เทรดเอ็นจิเนียริ่ง จำกัด (มหาชน),Security & Protection Services,Industrials,1253999872.0,0.015,1.9,9.23
+FTI,บริษัท ฟังก์ชั่น อินเตอร์เนชั่นแนล จำกัด (มหาชน),Pollution & Treatment Controls,Industrials,738000000.0,0.545,1.64,7.23
+GLAND,บริษัท แกรนด์ คาแนล แลนด์ จำกัด (มหาชน),Real Estate Services,Real Estate,4809873920.0,-0.172,0.74,3.38
+FTREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์เพื่ออุตสาหกรรม เฟรเซอร์ส พร็อพเพอร์ตี้,REIT - Industrial,Real Estate,37758951424.0,0.441,11.5,6.59
+FUTURERT,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ฟิวเจอร์ซิตี้,REIT - Retail,Real Estate,4872008192.0,,9.2,18.74
+FVC,บริษัท ฟิลเตอร์ วิชั่น จำกัด (มหาชน),Pollution & Treatment Controls,Industrials,920166976.0,0.13,0.42,4.76
+GABLE,บริษัท จีเอเบิล จำกัด (มหาชน),Information Technology Services,Technology,2814086144.0,0.413,4.02,7.8
+GAHREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ แกรนด์ โฮสพีทาลิตี้,REIT - Hotel & Motel,Real Estate,824849984.0,0.009,4.7,13.66
+GBX,บริษัท โกลเบล็ก โฮลดิ้ง แมนเนจเม้นท์ จำกัด (มหาชน),Capital Markets,Financial Services,631664256.0,0.054,0.58,0.65
+GC,บริษัท โกลบอล คอนเน็คชั่นส์ จำกัด (มหาชน),Specialty Chemicals,Basic Materials,1962399488.0,0.027,4.46,9.82
+GEL,บริษัท เจนเนอรัล เอนจิเนียริ่ง จำกัด (มหาชน),Building Materials,Basic Materials,344481952.0,1.477,0.04,
+GENCO,บริษัทบริหารและพัฒนาเพื่อการอนุรักษ์สิ่งแวดล้อม จำกัด(มหาชน),Waste Management,Industrials,277177216.0,0.339,0.25,
+GFC,บริษัท เจเนซีส เฟอร์ทิลีตี เซ็นเตอร์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,655600000.0,,2.98,4.22
+GFPT,บริษัท จีเอฟพีที จำกัด (มหาชน),Packaged Foods,Consumer Defensive,12036682752.0,0.018,9.6,2.05
+GGC,บริษัท โกลบอลกรีนเคมิคอล จำกัด (มหาชน),Chemicals,Basic Materials,3050526720.0,0.188,2.98,3.36
+GJS,บริษัท จี เจ สตีล จำกัด (มหาชน),Steel,Basic Materials,2548713472.0,0.112,0.1,
+GLOBAL,บริษัท สยามโกลบอลเฮ้าส์ จำกัด (มหาชน),Home Improvement Retail,Consumer Cyclical,41734873088.0,0.059,7.45,2.38
+GLORY,บริษัท รุ่งเรืองตลอดไป จำกัด (มหาชน),Publishing,Communication Services,170404352.0,0.065,0.63,
+GPI,บริษัท กรังด์ปรีซ์ อินเตอร์เนชั่นแนล จำกัด (มหาชน),Advertising Agencies,Communication Services,990000000.0,0.205,1.65,10.12
+GPSC,บริษัท โกลบอล เพาเวอร์ ซินเนอร์ยี่ จำกัด (มหาชน),Utilities - Regulated Electric,Utilities,111379308544.0,0.723,39.5,4.37
+GRAMMY,บริษัท จีเอ็มเอ็ม แกรมมี่ จำกัด (มหาชน),Entertainment,Communication Services,3361794048.0,0.053,4.1,
+KBS,บริษัท น้ำตาลครบุรี จำกัด (มหาชน),Confectioners,Consumer Defensive,3590000128.0,0.451,6.0,8.26
+GRAND,บริษัท แกรนด์ แอสเสท โฮเทลส์ แอนด์ พรอพเพอร์ตี้ จำกัด(มหาชน),Lodging,Consumer Cyclical,280233600.0,0.116,0.03,
+GREEN,บริษัท กรีน รีซอร์สเซส จำกัด (มหาชน),Utilities - Renewable,Utilities,498995072.0,-0.292,0.61,
+GROREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ แกรนด์ รอยัล ออคิด โฮสพีทาลิตี้ ที่มีข้อตกลงในการซื้อคืน,REIT - Hotel & Motel,Real Estate,2504249856.0,-0.018,7.95,6.96
+ICC,บริษัท ไอ.ซี.ซี. อินเตอร์เนชั่นแนล จำกัด (มหาชน),Apparel Retail,Consumer Cyclical,12250000384.0,0.199,24.5,2.8
+ICHI,บริษัท อิชิตัน กรุ๊ป จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,18979999744.0,0.262,14.6,8.11
+GTB,บริษัท เจตาแบค จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,672000000.0,-0.057,0.7,7.04
+GTV,บริษัท กรีนเทค เวนเจอร์ส จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,656547776.0,0.479,0.05,
+GULF,บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,866510569472.0,,58.0,1.69
+GUNKUL,บริษัท กันกุลเอ็นจิเนียริ่ง จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,19955736576.0,0.55,2.32,3.23
+GVREIT,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์โกลเด้นเวนเจอร์,REIT - Office,Real Estate,5377679872.0,0.385,6.6,10.72
+GYT,บริษัท กู๊ดเยียร์(ประเทศไทย) จำกัด (มหาชน),Auto Parts,Consumer Cyclical,1531800064.0,-0.1,207.0,3.85
+HANA,บริษัท ฮานา ไมโครอิเล็คโทรนิคส จำกัด (มหาชน),Electronic Components,Technology,16999040000.0,1.125,19.2,4.12
+HANN,บริษัท โรงพยาบาลมุกดาหารอินเตอร์เนชั่นแนล จำกัด (มหาชน),Medical Care Facilities,Healthcare,593599936.0,,1.06,
+HARN,บริษัท หาญ เอ็นจิเนียริ่ง โซลูชั่นส์ จำกัด (มหาชน),Security & Protection Services,Industrials,1168999936.0,-0.01,2.0,5.94
+HEALTH,บริษัท เฮลท์ เอ็มไพร์ คอร์ปอเรชั่น จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,160618592.0,-0.625,0.38,
+HENG,บริษัท เฮงลิสซิ่ง แอนด์ แคปปิตอล จำกัด (มหาชน),Credit Services,Financial Services,3619499776.0,0.116,0.95,2.65
+HFT,บริษัท ฮั้วฟง รับเบอร์ (ไทยแลนด์) จำกัด (มหาชน),Auto Parts,Consumer Cyclical,2752255232.0,0.415,4.18,6.37
+HL,บริษัท เฮลท์ลีด จำกัด (มหาชน),Medical Distribution,Healthcare,1878662144.0,0.273,7.05,3.1
+HMPRO,บริษัท โฮม โปรดักส์ เซ็นเตอร์ จำกัด (มหาชน),Home Improvement Retail,Consumer Cyclical,92742647808.0,0.332,7.15,6.07
+HPT,บริษัท โฮม พอตเทอรี่ จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,225106992.0,0.011,0.34,6.37
+HTC,บริษัท หาดทิพย์ จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,6390543872.0,0.294,15.9,5.59
+HTECH,บริษัท แฮลเซี่ยน เทคโนโลยี่ จำกัด (มหาชน),Tools & Accessories,Industrials,834000960.0,0.04,2.78,7.09
+HUMAN,บริษัท ฮิวแมนิก้า จำกัด (มหาชน),Software - Application,Technology,4348206592.0,0.351,5.2,5.82
+HYDRO,บริษัท ไฮโดรเท็ค จำกัด (มหาชน),Engineering & Construction,Industrials,769823360.0,0.124,2.62,
+IND,บริษัท อินเด็กซ์ อินเตอร์เนชั่นแนล กรุ๊ป จำกัด (มหาชน),Engineering & Construction,Industrials,412999968.0,-0.039,1.18,6.03
+HYDROGEN,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าไฮโดรเจน,REIT - Diversified,Real Estate,1682532096.0,-0.057,8.1,6.42
+I2,บริษัท ไอ ทู เอ็นเตอร์ไพรซ์ จำกัด (มหาชน),Information Technology Services,Technology,315000000.0,1.237,0.75,2.78
+LTS,บริษัท ไลท์อัพ โทเทิล โซลูชั่น จำกัด (มหาชน),Home Improvement Retail,Consumer Cyclical,563096000.0,,2.36,
+ICN,บริษัท อินฟอร์เมชั่น แอนด์ คอมมิวนิเคชั่น เน็ทเวิร์คส จำกัด (มหาชน),Telecom Services,Communication Services,1223222784.0,-0.005,1.82,8.11
+IFS,บริษัท ไอเอฟเอส แคปปิตอล (ประเทศไทย) จำกัด (มหาชน),Credit Services,Financial Services,1036349888.0,-0.081,2.1,4.86
+IHL,บริษัท อินเตอร์ไฮด์ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,906992576.0,0.233,1.53,6.41
+IIG,บริษัท ไอแอนด์ไอ กรุ๊ป จำกัด (มหาชน),Information Technology Services,Technology,170259712.0,0.208,1.38,
+III,บริษัท ทริพเพิล ไอ โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,3120190464.0,0.709,4.06,7.25
+ILINK,บริษัท อินเตอร์ลิ้งค์ คอมมิวนิเคชั่น จำกัด (มหาชน),Communication Equipment,Technology,2642053120.0,-0.044,4.86,8.54
+ILM,บริษัท อินเด็กซ์ ลิฟวิ่งมอลล์ จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,7221499904.0,0.506,14.3,6.8
+KC,บริษัท เค.ซี. พร็อพเพอร์ตี้ จำกัด (มหาชน),Real Estate - Development,Real Estate,103509744.0,-0.073,0.02,
+IMH,บริษัท โรงพยาบาลอินเตอร์เมดิคัล แคร์ แอนด์ แล็บ จำกัด (มหาชน),Medical Care Facilities,Healthcare,706265344.0,0.535,2.98,
+IMPACT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์อิมแพ็คโกรท,REIT - Specialty,Real Estate,16603999232.0,0.279,11.2,6.67
+INET,บริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน),Information Technology Services,Technology,2339222016.0,-0.122,3.92,2.96
+INETREIT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ไอเน็ต,REIT - Specialty,Real Estate,6361282560.0,0.261,12.5,6.43
+INGRS,บริษัท อิงเกรส อินดัสเตรียล (ไทยแลนด์) จำกัด (มหาชน),Auto Parts,Consumer Cyclical,419613376.0,0.389,0.29,7.67
+INOX,บริษัท โพสโค-ไทยน๊อคซ์ จำกัด (มหาชน),Steel,Basic Materials,3040326400.0,0.45,0.39,5.61
+INSET,บริษัท อินฟราเซท จำกัด (มหาชน),Information Technology Services,Technology,2193761792.0,-0.212,2.72,1.42
+INSURE,บริษัท อินทรประกันภัย จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,756000000.0,0.446,63.0,15.87
+IP,บริษัท อินเตอร์ ฟาร์มา จำกัด (มหาชน),Biotechnology,Healthcare,2506125824.0,0.44,4.14,
+IRC,บริษัท อีโนเว รับเบอร์ (ประเทศไทย) จำกัด (มหาชน),Auto Parts,Consumer Cyclical,2210388480.0,0.077,11.5,4.21
+IRCP,บริษัท อินเตอร์เนชั่นแนล รีเสริช คอร์ปอเรชั่น จำกัด (มหาชน),Information Technology Services,Technology,168339984.0,,0.27,
+IROYAL,บริษัท อินเตอร์รอแยล เอ็นจิเนียริ่ง จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,1334000000.0,,5.8,
+IRPC,บริษัท ไออาร์พีซี จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,27962509312.0,0.799,1.37,0.7
+IT,บริษัท ไอที ซิตี้ จำกัด (มหาชน),Electronics & Computer Distribution,Technology,1465595392.0,0.309,4.0,7.0
+ITC,บริษัท ไอ-เทล คอร์ปอเรชั่น จำกัด (มหาชน),Packaged Foods,Consumer Defensive,48600002560.0,0.14,16.2,5.33
+ITD,บริษัท อิตาเลียนไทย ดีเวล๊อปเมนต์ จำกัด (มหาชน),Engineering & Construction,Industrials,1214369920.0,0.601,0.23,
+ITEL,บริษัท อินเตอร์ลิ้งค์ เทเลคอม จำกัด (มหาชน),Telecom Services,Communication Services,1836437120.0,-0.22,1.33,
+ITNS,บริษัท อินเตอร์เนชั่นแนล เน็ตเวิร์ค ซิสเต็ม จำกัด (มหาชน),Information Technology Services,Technology,378289984.0,0.494,1.81,8.35
+ITTHI,บริษัท อิทธิฤทธิ์ ไนซ์ คอร์ปอเรชั่น จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,364770016.0,-0.419,1.35,7.09
+IVF,บริษัท อินสไปร์ ไอวีเอฟ จำกัด (มหาชน),Medical Care Facilities,Healthcare,365200000.0,,0.83,2.89
+IVL,บริษัท อินโดรามา เวนเจอร์ส จำกัด (มหาชน),Chemicals,Basic Materials,121274327040.0,0.958,21.6,3.06
+J,บริษัท เจเอเอส แอสเซ็ท จำกัด (มหาชน),Real Estate Services,Real Estate,934867712.0,-0.419,0.64,
+JAK,บริษัท จักรไพศาล เอสเตท จำกัด (มหาชน),Real Estate - Development,Real Estate,256000000.0,,0.8,6.88
+JCK,บริษัท เจซีเค อินเตอร์เนชั่นแนล จำกัด (มหาชน),Real Estate - Development,Real Estate,494357152.0,0.063,0.13,
+JCT,บริษัท แจ๊กเจียอุตสาหกรรม (ไทย) จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,1130625024.0,0.027,83.75,5.73
+JDF,บริษัท เจดีฟู้ด จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1194000000.0,0.283,1.99,9.0
+JMART,บริษัท เจมาร์ท กรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,11052985344.0,0.122,7.55,3.31
+JMT,บริษัท เจ เอ็ม ที เน็ทเวอร์ค เซอร์วิสเซ็ส จำกัด (มหาชน),Credit Services,Financial Services,15035317248.0,-0.023,10.3,7.75
+JPARK,บริษัท เจนก้องไกล จำกัด (มหาชน),Infrastructure Operations,Industrials,1256000000.0,1.126,3.14,2.96
+JR,บริษัท เจ.อาร์.ดับเบิ้ลยู. ยูทิลิตี้ จำกัด (มหาชน),Engineering & Construction,Industrials,1337600000.0,0.153,1.76,3.07
+JSP,บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน),Packaged Foods,Consumer Defensive,939658304.0,0.52,1.98,5.06
+JTS,บริษัท จัสมิน เทคโนโลยี โซลูชั่น จำกัด (มหาชน),Telecom Services,Communication Services,49805238272.0,-0.538,70.5,
+JUBILE,บริษัท ยูบิลลี่ เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Luxury Goods,Consumer Cyclical,1307048448.0,0.284,7.5,3.68
+K,บริษัท คิงส์เมน ซี.เอ็ม.ที.ไอ. จำกัด (มหาชน),Specialty Business Services,Industrials,545625088.0,0.294,1.08,4.63
+KAMART,บริษัท คาร์มาร์ท จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,11651783680.0,,9.15,4.78
+KASET,บริษัท ไทยฮา จำกัด (มหาชน),Packaged Foods,Consumer Defensive,169580000.0,-0.032,0.61,
+KBANK,ธนาคารกสิกรไทย จำกัด (มหาชน),Banks - Regional,Financial Services,471496196096.0,0.168,199.0,5.97
+KCAR,บริษัท กรุงไทยคาร์เร้นท์ แอนด์ ลีส จำกัด (มหาชน),Rental & Leasing Services,Industrials,1250000000.0,0.196,5.0,5.54
+KCC,บริษัท ไนท คลับ แคปปิตอล โฮลดิ้ง จำกัด (มหาชน),Asset Management,Financial Services,1459268992.0,0.15,2.36,5.37
+KCE,บริษัท เคซีอี อีเลคโทรนิคส์ จำกัด (มหาชน),Electronic Components,Technology,22696101888.0,0.964,19.2,6.15
+KCG,บริษัท เคซีจี คอร์ปอเรชั่น จำกัด (มหาชน),Packaged Foods,Consumer Defensive,5286499840.0,-0.062,9.7,5.13
+KCM,บริษัท เค.ซี.เมททอลชีท จำกัด (มหาชน),Metal Fabrication,Industrials,108800000.0,0.354,0.16,
+KDH,บริษัท ธนบุรี เมดิเคิล เซ็นเตอร์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,1633121024.0,0.158,84.25,3.2
+KGEN,บริษัท คิง เจน จำกัด (มหาชน),Railroads,Industrials,2561608960.0,-0.357,1.24,
+KGI,บริษัทหลักทรัพย์ เคจีไอ (ประเทศไทย) จำกัด (มหาชน),Capital Markets,Financial Services,8843427840.0,0.465,4.44,6.92
+KIAT,บริษัท เกียรติธนา ขนส่ง จำกัด (มหาชน),Trucking,Industrials,1071244928.0,0.246,0.35,5.88
+KISS,บริษัท โรจูคิส อินเตอร์เนชั่นแนล จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,2059235072.0,0.017,3.52,5.65
+KJL,บริษัท กิจเจริญ เอ็นจิเนียริ่ง อีเลคทริค จำกัด (มหาชน),Metal Fabrication,Industrials,1357187072.0,0.115,5.85,8.74
+KK,บริษัท เคแอนด์เค ซุปเปอร์สโตร์ เซาท์เทิร์น จำกัด (มหาชน),Grocery Stores,Consumer Defensive,243914960.0,,1.01,1.47
+KKP,ธนาคารเกียรตินาคินภัทร จำกัด (มหาชน),Banks - Regional,Financial Services,62310539264.0,0.213,76.75,7.33
+KLINIQ,บริษัท เดอะคลีนิกค์ คลินิกเวชกรรม จำกัด (มหาชน),Personal Services,Consumer Cyclical,5412000256.0,0.159,24.6,5.62
+KOOL,บริษัท ซีแอล เวนเจอร์ จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,698880000.0,0.474,0.3,4.17
+MCS,บริษัท เอ็ม.ซี.เอส.สตีล จำกัด (มหาชน),Steel,Basic Materials,4555350016.0,0.335,9.55,10.0
+NATION,บริษัท เนชั่น กรุ๊ป (ไทยแลนด์) จำกัด (มหาชน),Publishing,Communication Services,488156448.0,0.418,0.04,
+NC,บริษัท นิวซิตี้ (กรุงเทพฯ) จำกัด (มหาชน),Apparel Retail,Consumer Cyclical,300424800.0,-0.661,1.97,0.47
+NCAP,บริษัท เน็คซ์ แคปปิตอล จำกัด (มหาชน),Credit Services,Financial Services,3806999808.0,0.437,2.82,1.4
+NCH,บริษัท เอ็น. ซี. เฮ้าส์ซิ่ง จำกัด (มหาชน),Real Estate - Development,Real Estate,572830528.0,0.371,0.46,
+NCL,บริษัท เอ็นซีแอล อินเตอร์เนชั่นแนล โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,152731472.0,0.428,0.22,
+KSL,บริษัท น้ำตาลขอนแก่น จำกัด (มหาชน),Confectioners,Consumer Defensive,5645097984.0,-0.03,1.28,3.01
+KTB,ธนาคารกรุงไทย จำกัด (มหาชน),Banks - Regional,Financial Services,475186069504.0,0.192,34.0,10.55
+KTBSTMR,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ เคทีบีเอสที มิกซ์,REIT - Diversified,Real Estate,1673325056.0,0.064,5.55,10.81
+KTC,บริษัท บัตรกรุงไทย จำกัด (มหาชน),Credit Services,Financial Services,83795853312.0,0.193,32.5,5.32
+KTIS,บริษัท เกษตรไทย อินเตอร์เนชั่นแนล ชูการ์ คอร์ปอเรชั่น จำกัด (มหาชน),Confectioners,Consumer Defensive,7334000128.0,-0.041,1.9,2.53
+KTMS,บริษัท เคที เมดิคอล เซอร์วิส จำกัด (มหาชน),Medical Care Facilities,Healthcare,597000000.0,,1.99,0.63
+KUMWEL,บริษัท คัมเวล คอร์ปอเรชั่น จำกัด (มหาชน),Security & Protection Services,Industrials,494500000.0,-0.067,1.15,5.31
+KUN,บริษัท วิลล่า คุณาลัย จำกัด (มหาชน),Real Estate - Development,Real Estate,573568960.0,0.222,0.7,1.35
+KWC,บริษัท กรุงเทพโสภณ จำกัด (มหาชน),Real Estate Services,Real Estate,1674000000.0,0.0,279.0,4.12
+KWI,บริษัท เคดับบลิวไอ จำกัด (มหาชน),Insurance - Diversified,Financial Services,116058992.0,0.207,0.04,
+KWM,บริษัท เค. ดับบลิว. เม็ททัล เวิร์ค จำกัด (มหาชน),Farm & Heavy Construction Machinery,Industrials,449461856.0,0.431,0.92,7.37
+KYE,บริษัท กันยงอีเลคทริก จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,5742000128.0,0.184,290.0,6.1
+L&E,บริษัท ไลท์ติ้ง แอนด์ อีควิปเมนท์ จำกัด (มหาชน),,,526482816.0,-0.021,1.07,
+LALIN,บริษัท ลลิล พร็อพเพอร์ตี้ จำกัด (มหาชน),Real Estate - Development,Real Estate,4439997440.0,0.258,4.8,6.25
+LANNA,บริษัท ลานนารีซอร์สเซส จำกัด (มหาชน),Thermal Coal,Energy,7874995200.0,-0.15,15.0,6.67
+LDC,บริษัท แอลดีซี เด็นทัล จำกัด (มหาชน),Medical Care Facilities,Healthcare,174000000.0,,0.29,
+LEE,บริษัท ลีพัฒนาผลิตภัณฑ์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,2465640704.0,0.19,2.7,7.35
+LEO,บริษัท ลีโอ โกลบอล โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,604915584.0,0.515,1.92,3.08
+LH,บริษัทแลนด์แอนด์เฮ้าส์ จำกัด (มหาชน),Real Estate - Development,Real Estate,49949798400.0,0.312,4.18,6.88
+LHFG,บริษัท แอล เอช ไฟแนนซ์เชียล กรุ๊ป จำกัด (มหาชน),Banks - Regional,Financial Services,21395496960.0,-0.006,1.01,8.82
+LHK,บริษัท โลหะกิจ เม็ททอล จำกัด (มหาชน),Steel,Basic Materials,1302200064.0,0.103,3.4,7.27
+LHSC,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ แอล เอช ช้อปปิ้ง เซ็นเตอร์,REIT - Diversified,Real Estate,10970713088.0,0.238,14.1,18.33
+LIT,บริษัท ลีซ อิท จำกัด (มหาชน),Credit Services,Financial Services,323339840.0,-0.039,0.73,
+LOXLEY,บริษัท ล็อกซเล่ย์ จำกัด (มหาชน),Conglomerates,Industrials,3465380864.0,,1.53,5.16
+LPH,บริษัท โรงพยาบาล ลาดพร้าว จำกัด (มหาชน),Medical Care Facilities,Healthcare,2692800000.0,0.056,3.74,10.58
+LPN,บริษัท แอล.พี.เอ็น.ดีเวลลอปเมนท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,2226539520.0,0.388,1.58,6.13
+LRH,บริษัท ลากูน่า รีสอร์ท แอนด์ โฮเท็ล จำกัด (มหาชน),Lodging,Consumer Cyclical,5625541120.0,,33.75,4.15
+LST,บริษัท ล่ำสูง (ประเทศไทย) จำกัด (มหาชน),Farm Products,Consumer Defensive,3903200256.0,0.134,4.76,4.6
+LTMH,บริษัท แอลทีเอ็มเอช จำกัด (มหาชน),Advertising Agencies,Communication Services,896000000.0,,4.48,3.21
+M,บริษัท เอ็มเค เรสโตรองต์ กรุ๊ป จำกัด (มหาชน),Restaurants,Consumer Cyclical,19608729600.0,0.494,21.7,4.48
+MADAME,บริษัท มาดาม ไบโอไซเอนซ์ จํากัด (มหาชน),Packaged Foods,Consumer Defensive,460451040.0,-0.012,0.57,
+MAGURO,บริษัท มากุโระ กรุ๊ป จำกัด (มหาชน),Restaurants,Consumer Cyclical,2923200000.0,,23.2,2.97
+MANRIN,บริษัท แมนดารินโฮเต็ล จำกัด (มหาชน),Lodging,Consumer Cyclical,632281152.0,0.122,23.5,1.06
+MASTEC,บริษัท แมสเทค ลิ้งค์ จำกัด (มหาชน),Industrial Distribution,Industrials,387000000.0,,1.29,10.69
+MASTER,บริษัท มาสเตอร์ สไตล์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,3137801984.0,1.048,10.4,3.64
+MATCH,บริษัท แม็ทชิ่ง แม็กซิไมซ์ โซลูชั่น จำกัด (มหาชน),Entertainment,Communication Services,773812480.0,0.14,0.99,
+MATI,บริษัท มติชน จำกัด (มหาชน),Publishing,Communication Services,619066304.0,-0.043,3.34,2.99
+MBAX,บริษัท มัลติแบกซ์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,363762976.0,0.222,1.83,5.46
+MBK,บริษัท เอ็ม บี เค จำกัด (มหาชน),Conglomerates,Industrials,28091731968.0,-0.061,20.1,5.85
+MC,บริษัท แม็คกรุ๊ป จำกัด (มหาชน),Apparel Manufacturing,Consumer Cyclical,9107999744.0,0.14,11.5,8.74
+MCA,บริษัท มาร์เก็ต คอนเน็กชั่นส์ เอเชีย จำกัด (มหาชน),Advertising Agencies,Communication Services,255300000.0,1.413,1.11,3.79
+MCOT,บริษัท อสมท จำกัด (มหาชน),Broadcasting,Communication Services,4500499968.0,0.171,6.55,
+MDX,บริษัท เอ็ม ดี เอ็กซ์ จำกัด (มหาชน),Real Estate - Development,Real Estate,1227030272.0,0.263,2.58,
+MEB,บริษัท เมพ คอร์ปอเรชั่น จำกัด (มหาชน),Software - Application,Technology,4290000128.0,,14.3,7.59
+MEDEZE,บริษัท เมดีซ กรุ๊ป จำกัด (มหาชน),Medical Care Facilities,Healthcare,6995400192.0,,6.55,3.58
+MEGA,บริษัท เมก้า ไลฟ์ไซแอ็นซ์ จำกัด (มหาชน),Drug Manufacturers - Specialty & Generic,Healthcare,31169335296.0,0.272,35.75,4.38
+MENA,บริษัท มีนาทรานสปอร์ต จำกัด (มหาชน),Trucking,Industrials,557840000.0,0.22,0.76,1.9
+META,บริษัท เมตะ คอร์ปอเรชั่น จำกัด (มหาชน),Utilities - Renewable,Utilities,122779632.0,-0.154,0.04,
+METCO,บริษัทมูราโมโต้ อีเล็คตรอน (ประเทศไทย) จำกัด (มหาชน),Electronic Components,Technology,5705154048.0,0.426,273.0,10.91
+MFC,บริษัทหลักทรัพย์จัดการกองทุน เอ็มเอฟซี จำกัด (มหาชน),Asset Management,Financial Services,3002215424.0,0.294,23.9,5.17
+MFEC,บริษัท เอ็ม เอฟ อี ซี จำกัด (มหาชน),Information Technology Services,Technology,2582503424.0,0.211,5.85,8.47
+MGC,บริษัท มิลเลนเนียม กรุ๊ป คอร์ปอเรชั่น (เอเชีย) จำกัด (มหาชน),Auto & Truck Dealerships,Consumer Cyclical,4967547904.0,,4.46,5.46
+MOTHER,บริษัท มาเธอร์ มาร์เก็ตติ้ง จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,343200000.0,,1.2,
+MPJ,บริษัท เอ็ม พี เจ โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,800000000.0,,4.0,8.33
+MRDIYT,บริษัท มิสเตอร์. ดี.ไอ.วาย. โฮลดิ้ง (ประเทศไทย) จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,54454730752.0,,9.05,1.18
+MSC,บริษัท เมโทรซิสเต็มส์คอร์ปอเรชั่น จำกัด (มหาชน),Electronics & Computer Distribution,Technology,2681999872.0,0.068,7.45,4.67
+MST,บริษัทหลักทรัพย์ เมย์แบงก์ (ประเทศไทย) จำกัด (มหาชน),Capital Markets,Financial Services,3938620416.0,0.0,6.9,4.14
+MTC,บริษัท เมืองไทย แคปปิตอล จำกัด (มหาชน),Credit Services,Financial Services,75260002304.0,0.539,35.5,0.78
+NCP,บริษัท ไนซ์ คอล จำกัด (มหาชน),Specialty Business Services,Industrials,187200000.0,,1.04,10.42
+MGT,บริษัท เมกาเคม (ประเทศไทย) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,720000000.0,0.166,1.8,4.7
+MICRO,บริษัท ไมโครลิสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,869550016.0,0.478,0.93,2.76
+MIDA,บริษัท ไมด้า แอสเซ็ท จำกัด (มหาชน),Credit Services,Financial Services,626024576.0,0.289,0.25,
+MILL,บริษัท มิลล์คอน สตีล จำกัด (มหาชน),Steel,Basic Materials,473544704.0,-0.143,0.05,
+MINT,บริษัท ไมเนอร์ อินเตอร์เนชั่นแนล จำกัด (มหาชน),Lodging,Consumer Cyclical,136646451200.0,0.332,24.1,2.69
+MITSIB,บริษัท มิตรสิบ ลิสซิ่ง จำกัด (มหาชน),Auto & Truck Dealerships,Consumer Cyclical,768677760.0,,0.56,3.39
+MJD,บริษัท เมเจอร์ ดีเวลลอปเม้นท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,326956544.0,0.185,0.38,
+MJLF,กองทุนรวมสิทธิการเช่าอสังหาฯ เมเจอร์ ซีนีเพล็กซ์ ไลฟ์สไตส์,,,1716000000.0,0.28,5.2,
+MK,บริษัท มั่นคงเคหะการ จำกัด (มหาชน),Real Estate - Development,Real Estate,811798464.0,-0.017,0.57,
+ML,บริษัท ไมด้า ลิสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,468510976.0,0.552,0.44,
+MTI,บริษัท เมืองไทยประกันภัย จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,9262999552.0,0.146,15.7,4.91
+MTW,บริษัท เมคทูวิน โฮลดิ้ง จำกัด (มหาชน),Auto Manufacturers,Consumer Cyclical,747370752.0,0.609,0.85,3.34
+MUD,บริษัท มัด แอนด์ ฮาวด์ จำกัด (มหาชน),Restaurants,Consumer Cyclical,674167488.0,-0.383,0.64,
+MVP,บริษัท เอ็ม วิชั่น จำกัด (มหาชน),Advertising Agencies,Communication Services,40471116.0,0.134,0.12,
+MODERN,บริษัท โมเดอร์นฟอร์มกรุ๊ป จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,1404000000.0,0.063,2.08,9.0
+MONO,บริษัท โมโน เน็กซ์ จำกัด (มหาชน),Entertainment,Communication Services,3262790912.0,0.213,0.94,
+MOONG,บริษัท มุ่งพัฒนา อินเตอร์แนชชั่นแนล จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,738413056.0,0.178,2.24,10.09
+MORE,บริษัท มอร์ รีเทิร์น จำกัด (มหาชน),Utilities - Regulated Water,Utilities,215302448.0,-0.614,0.03,
+MOSHI,บริษัท โมชิ โมชิ รีเทล คอร์ปอเรชั่น จำกัด (มหาชน),Department Stores,Consumer Cyclical,12209998848.0,0.398,37.0,3.23
+NDR,บริษัท เอ็น.ดี.รับเบอร์ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,667061760.0,0.222,1.46,2.38
+NEO,บริษัท นีโอ คอร์ปอเรท จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,6539999744.0,,21.8,6.0
+NEP,บริษัท เอ็นอีพี อสังหาริมทรัพย์ และอุตสาหกรรม จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,465076128.0,-0.086,0.2,
+NER,บริษัท นอร์ทอีส รับเบอร์ จำกัด (มหาชน),Specialty Chemicals,Basic Materials,8943302656.0,0.252,4.84,6.3
+NETBAY,บริษัท เน็ตเบย์ จำกัด (มหาชน),Software - Application,Technology,4120000000.0,0.007,20.6,5.69
+NEW,บริษัท วัฒนาการแพทย์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,1255000064.0,0.52,125.5,1.43
+NEX,บริษัท เน็กซ์ พอยท์ จำกัด (มหาชน),Farm & Heavy Construction Machinery,Industrials,6708126720.0,0.382,1.12,
+NFC,บริษัท เอ็นเอฟซี จำกัด (มหาชน),Agricultural Inputs,Basic Materials,1338034688.0,0.142,1.23,
+NKI,บริษัท นวกิจประกันภัย จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,600400000.0,0.311,15.8,
+NKT,บริษัท โรงพยาบาลนครธน จำกัด (มหาชน),Medical Care Facilities,Healthcare,2246999808.0,,4.2,4.27
+NL,บริษัท เอ็นแอล ดีเวลลอปเมนต์ จำกัด (มหาชน),Engineering & Construction,Industrials,295000000.0,-0.058,0.59,6.25
+NNCL,บริษัท นวนคร จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,3154312448.0,0.147,1.54,7.05
+NOBLE,บริษัท โนเบิล ดีเวลลอปเมนท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,3505698816.0,0.455,2.56,15.52
+NOVA,บริษัท โนวา เอมไพร์ จำกัด (มหาชน),Solar,Technology,928214016.0,-0.156,8.1,
+NPK,บริษัท นิวพลัสนิตติ้ง จำกัด (มหาชน),Apparel Manufacturing,Consumer Cyclical,154000000.0,-0.029,15.4,
+NRF,บริษัท เอ็นอาร์ อินสแตนท์ โปรดิวซ์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,315803680.0,-0.005,0.21,
+NSL,บริษัท เอ็นเอสแอล ฟู้ดส์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,7139999744.0,0.077,23.8,4.03
+PTG,บริษัท พีทีจี เอ็นเนอยี จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,16366000128.0,,9.8,3.52
+NTF,บริษัท เอ็นทีเอฟ อินเตอร์กรุ๊ป (ประเทศไทย) จำกัด (มหาชน),Food Distribution,Consumer Defensive,2200000000.0,,11.0,4.02
+NTSC,บริษัท นิวทรีชั่น เอสซี จำกัด (มหาชน),Specialty Chemicals,Basic Materials,859997952.0,-0.037,6.45,4.48
+NTV,บริษัท โรงพยาบาลนนทเวช จำกัด (มหาชน),Medical Care Facilities,Healthcare,3744000000.0,0.125,23.4,4.39
+NV,บริษัท โนวา ออร์แกนิค จำกัด (มหาชน),Packaged Foods,Consumer Defensive,305271584.0,0.346,0.53,
+NVD,บริษัท เนอวานา ดีเวลลอปเม้นท์ จำกัด (มหาชน),Real Estate Services,Real Estate,1518559232.0,,0.82,
+NYT,บริษัท นามยง เทอร์มินัล จำกัด (มหาชน),Marine Shipping,Industrials,4712000000.0,0.183,3.8,13.09
+OCC,บริษัท โอ ซี ซี จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,588000000.0,0.175,9.8,0.82
+PCE,บริษัท เพชรศรีวิชัย เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Farm Products,Consumer Defensive,6270000128.0,,2.28,3.48
+OGC,บริษัท โอเชียนกลาส จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,204774880.0,,9.6,
+OHTL,บริษัท โอเอชทีแอล จำกัด (มหาชน),Lodging,Consumer Cyclical,4740709376.0,0.017,314.0,
+OKJ,บริษัท ปลูกผักเพราะรักแม่ จำกัด (มหาชน),Food Distribution,Consumer Defensive,2375100160.0,,3.9,1.76
+ONEE,บริษัท เดอะ วัน เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Entertainment,Communication Services,6858000384.0,0.108,2.88,6.16
+OR,บริษัท ปตท. น้ำมันและการค้าปลีก จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,158400004096.0,0.533,13.2,4.48
+ORI,บริษัท ออริจิ้น พร็อพเพอร์ตี้ จำกัด (มหาชน),Real Estate - Development,Real Estate,4957327360.0,0.335,2.02,1.96
+ORN,บริษัท อรสิริน โฮลดิ้ง จํากัด (มหาชน),Real Estate - Development,Real Estate,1185000064.0,0.732,0.79,2.5
+OSP,บริษัท โอสถสภา จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,50462994432.0,0.351,16.8,4.3
+PACO,บริษัท เพรสซิเด้นท์ ออโตโมบิล อินดัสทรีส์ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,1280000000.0,0.137,1.28,19.08
+PAF,บริษัท แพนเอเซียฟุตแวร์ จำกัด (มหาชน),Footwear & Accessories,Consumer Cyclical,367200000.0,-0.067,0.68,
+PANEL,บริษัท เพเนเล่ส์มาติก โซลูชั่นส์ จำกัด (มหาชน),Engineering & Construction,Industrials,248899984.0,0.672,1.31,2.54
+PAP,บริษัท แปซิฟิกไพพ์ จำกัด (มหาชน),Steel,Basic Materials,1300200064.0,,1.97,4.0
+PATO,บริษัท พาโตเคมีอุตสาหกรรม จำกัด (มหาชน),Agricultural Inputs,Basic Materials,996604032.0,0.218,7.0,8.22
+PB,บริษัท เพรซิเดนท์ เบเกอรี่ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,21824999424.0,,48.5,3.49
+PCC,บริษัท พรีไซซ คอร์ปอเรชั่น จำกัด (มหาชน),Conglomerates,Industrials,3311871744.0,0.203,2.7,7.97
+PCSGH,บริษัท พี.ซี.เอส.แมชีน กรุ๊ปโฮลดิ้ง จำกัด (มหาชน),Auto Parts,Consumer Cyclical,4436999680.0,-0.018,3.06,8.71
+PDG,บริษัท พรอดดิจิ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,902879808.0,0.17,3.04,10.9
+PDJ,บริษัท แพรนด้า จิวเวลรี่ จำกัด (มหาชน),Luxury Goods,Consumer Cyclical,664080192.0,0.116,1.12,9.01
+PEACE,บริษัท พีซแอนด์ลีฟวิ่ง จำกัด (มหาชน),Real Estate - Development,Real Estate,902155776.0,0.079,1.79,3.33
+PEER,บริษัท เพียร์ ฟอร์ ยู จำกัด (มหาชน),Specialty Business Services,Industrials,94943384.0,0.621,0.09,
+PERM,บริษัท เพิ่มสินสตีลเวิคส์ จำกัด (มหาชน),Steel,Basic Materials,130331976.0,0.147,0.17,
+PF,บริษัท พร็อพเพอร์ตี้ เพอร์เฟค จำกัด (มหาชน),Real Estate - Development,Real Estate,500554048.0,0.208,0.05,
+PG,บริษัท ประชาอาภรณ์ จำกัด (มหาชน),Apparel Manufacturing,Consumer Cyclical,614400000.0,0.018,6.4,7.81
+PHOL,บริษัท ผลธัญญะ จำกัด (มหาชน),Security & Protection Services,Industrials,611550720.0,-0.037,3.02,8.17
+PICO,บริษัท ปิโก (ไทยแลนด์) จำกัด (มหาชน),Advertising Agencies,Communication Services,908543872.0,-0.291,4.22,1.18
+PIMO,บริษัท ไพโอเนียร์ มอเตอร์ จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,762155648.0,0.119,1.04,4.67
+PIN,บริษัท ปิ่นทอง อินดัสเตรียล ปาร์ค จำกัด (มหาชน),Real Estate - Development,Real Estate,4918399488.0,,4.24,5.0
+PIS,บริษัท โปร อินไซด์ จำกัด (มหาชน),Information Technology Services,Technology,1922400000.0,,3.56,5.56
+PJW,บริษัท ปัญจวัฒนาพลาสติก จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,1274095232.0,,2.2,4.78
+PK,บริษัท พัฒน์กล จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,218717632.0,0.551,0.42,
+PL,บริษัท ภัทรลิสซิ่ง จำกัด (มหาชน),Rental & Leasing Services,Industrials,787393024.0,0.316,1.32,4.63
+PLANB,บริษัท แพลน บี มีเดีย จำกัด (มหาชน),Advertising Agencies,Communication Services,21253289984.0,0.312,4.62,4.43
+PLANET,บริษัท แพลนเน็ต คอมมิวนิเคชั่น เอเชีย จำกัด (มหาชน),Communication Equipment,Technology,296680096.0,-0.539,0.45,
+PLAT,บริษัท เดอะ แพลทินัม กรุ๊ป จำกัด (มหาชน),Real Estate Services,Real Estate,3192000000.0,,1.14,1.67
+PLE,บริษัท เพาเวอร์ไลน์ เอ็นจิเนียริ่ง จำกัด (มหาชน),Engineering & Construction,Industrials,326836320.0,0.261,0.18,
+PLT,บริษัท พีลาทัส มารีน จำกัด (มหาชน),Oil & Gas Midstream,Energy,537600000.0,0.048,0.56,5.17
+PLUS,บริษัท โรแยล พลัส จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,911200000.0,0.079,1.36,4.0
+PM,บริษัท พรีเมียร์ มาร์เก็ตติ้ง จำกัด (มหาชน),Food Distribution,Consumer Defensive,6809063936.0,-0.017,12.2,6.99
+PMC,บริษัท พีเอ็มซี เลเบิล แมททีเรียลส์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,340442208.0,,0.86,2.06
+PMTA,บริษัท พีเอ็ม โทรีเซน เอเชีย โฮลดิ้งส์ จำกัด (มหาชน),Agricultural Inputs,Basic Materials,1042360000.0,0.257,10.3,6.67
+POLY,บริษัท โพลีเน็ต จำกัด (มหาชน),Metal Fabrication,Industrials,3420000000.0,0.061,7.6,7.84
+PORT,บริษัท สหไทย เทอร์มินอล จำกัด (มหาชน),Marine Shipping,Industrials,315745376.0,0.123,0.52,
+PPM,บริษัท พรพรหมเม็ททอล จำกัด (มหาชน),Industrial Distribution,Industrials,565480960.0,-0.269,1.34,3.73
+PPP,บริษัท พรีเมียร์ โพรดักส์ จำกัด (มหาชน),Pollution & Treatment Controls,Industrials,243000000.0,0.025,0.81,
+PPPM,บริษัท พีพี ไพร์ม จำกัด (มหาชน),Packaged Foods,Consumer Defensive,218466368.0,0.766,0.27,
+PPS,บริษัท โปรเจค แพลนนิ่ง เซอร์วิส จำกัด (มหาชน),Engineering & Construction,Industrials,171971040.0,0.357,0.2,
+PQS,บริษัท พรีเมียร์ควอลิตี้สตาร์ช จำกัด (มหาชน),Farm Products,Consumer Defensive,1031800000.0,0.418,1.54,8.33
+PR9,บริษัท โรงพยาบาลพระรามเก้า จำกัด (มหาชน),Medical Care Facilities,Healthcare,14782440448.0,0.034,18.8,2.58
+PRAKIT,บริษัท ประกิต โฮลดิ้งส์ จำกัด (มหาชน),Advertising Agencies,Communication Services,652862848.0,-0.265,10.8,6.48
+PRAPAT,บริษัท พีรพัฒน์ เทคโนโลยี จำกัด (มหาชน),Specialty Chemicals,Basic Materials,342283872.0,,0.8,4.88
+PREB,บริษัท พรีบิลท์ จำกัด (มหาชน),Engineering & Construction,Industrials,1247052800.0,0.106,4.04,4.95
+PRECHA,บริษัท ปรีชากรุ๊ป จำกัด (มหาชน),Real Estate - Development,Real Estate,164640000.0,0.203,0.49,
+PRG,บริษัท พี อาร์ จี คอร์ปอเรชั่น จำกัด (มหาชน),Packaged Foods,Consumer Defensive,6946256896.0,,9.1,8.09
+PRI,บริษัท พรีโม เซอร์วิส โซลูชั่น จำกัด (มหาชน),Real Estate Services,Real Estate,1344000000.0,0.328,4.2,11.79
+PRIME,บริษัท ไพร์ม โรด เพาเวอร์ จำกัด (มหาชน),Utilities - Renewable,Utilities,255269120.0,0.531,0.06,
+PRIN,บริษัท ปริญสิริ จำกัด (มหาชน),Real Estate - Development,Real Estate,1708016512.0,0.051,1.4,
+PRINC,บริษัท พริ้นซิเพิล แคปิตอล จำกัด (มหาชน),Medical Care Facilities,Healthcare,7160112640.0,0.14,1.88,0.52
+PRM,บริษัท พริมา มารีน จำกัด (มหาชน),Oil & Gas Midstream,Energy,17555353600.0,0.485,8.1,6.37
+PROEN,บริษัท โปรเอ็น คอร์ป จำกัด (มหาชน),Telecom Services,Communication Services,431824864.0,-0.136,1.1,
+PROS,บริษัท พรอสเพอร์ เอ็นจิเนียริ่ง จำกัด (มหาชน),Engineering & Construction,Industrials,209587936.0,-0.32,0.38,
+PROSPECT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าอสังหาริมทรัพย์ พรอสเพค โลจิสติกส์และอินดัสเทรียล,REIT - Industrial,Real Estate,4411400192.0,0.051,6.85,12.55
+PROUD,บริษัท พราว เรียล เอสเตท จำกัด (มหาชน),Real Estate - Development,Real Estate,1003234432.0,,1.03,8.74
+PRTR,บริษัท พีอาร์ทีอาร์ กรุ๊ป จำกัด (มหาชน),Staffing & Employment Services,Industrials,2100000000.0,0.101,3.5,8.43
+PSGC,บริษัท พีเอสจี คอร์ปอเรชั่น จำกัด (มหาชน),Engineering & Construction,Industrials,17182930944.0,,3.86,
+PSH,บริษัท พฤกษา โฮลดิ้ง จำกัด (มหาชน),Real Estate - Development,Real Estate,8449539584.0,0.081,3.86,1.01
+PSP,บริษัท พี.เอส.พี.สเปเชียลตี้ส์ จำกัด (มหาชน),Specialty Chemicals,Basic Materials,6244000256.0,1.0,4.46,6.19
+PSTC,บริษัท เพาเวอร์ โซลูชั่น เทคโนโลยี จำกัด (มหาชน),Oil & Gas Midstream,Energy,866169600.0,,0.25,
+PT,บริษัท พรีเมียร์ เทคโนโลยี จำกัด (มหาชน),Information Technology Services,Technology,3520222720.0,0.042,12.4,8.0
+PTC,บริษัท พรีเมียร์ แทงค์ คอร์ปอเรชั่น จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,254200000.0,,0.62,1.59
+PTECH,บริษัท พลัส เทค อินโนเวชั่น จำกัด (มหาชน),Business Equipment & Supplies,Industrials,697882624.0,0.621,1.9,
+PTL,บริษัท โพลีเพล็กซ์ (ประเทศไทย) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,7604999680.0,0.465,8.45,4.57
+PTT,บริษัท ปตท. จำกัด (มหาชน),Oil & Gas Integrated,Energy,1055081496576.0,0.41,37.25,5.68
+PTTEP,บริษัท ปตท.สำรวจและผลิตปิโตรเลียม จำกัด (มหาชน),Oil & Gas E&P,Energy,557782925312.0,0.268,140.5,6.39
+RCL,บริษัท อาร์ ซี แอล จำกัด (มหาชน),Marine Shipping,Industrials,26520000512.0,0.795,32.0,13.01
+PTTGC,บริษัท พีทีที โกลบอล เคมิคอล จำกัด (มหาชน),Chemicals,Basic Materials,125120561152.0,1.099,27.75,1.77
+PYLON,บริษัท ไพลอน จำกัด (มหาชน),Engineering & Construction,Industrials,2354602496.0,,3.14,7.55
+QDC,บริษัท ควอนตัม ดี ซี จำกัด (มหาชน),Restaurants,Consumer Cyclical,26243570.0,0.233,0.09,
+QH,บริษัท ควอลิตี้เฮ้าส์ จำกัด (มหาชน),Real Estate - Development,Real Estate,15749994496.0,,1.47,9.15
+QLT,บริษัท ควอลลีเทค จำกัด (มหาชน),Specialty Business Services,Industrials,141938624.0,0.309,1.44,2.14
+QTC,บริษัท คิวทีซี เอนเนอร์ยี่ จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,1234754944.0,0.25,3.62,5.41
+QTCG,บริษัท คิวทีซีจี จำกัด (มหาชน),Engineering & Construction,Industrials,84000000.0,,0.14,
+RABBIT,บริษัท แรบบิท โฮลดิ้งส์ จำกัด (มหาชน),Conglomerates,Industrials,2394969600.0,-0.477,0.32,
+RAM,บริษัท โรงพยาบาลรามคำแหง จำกัด (มหาชน),Medical Care Facilities,Healthcare,22560000000.0,-0.126,18.8,1.1
+RATCH,บริษัท ราช กรุ๊ป จำกัด (มหาชน),Utilities - Regulated Electric,Utilities,66337501184.0,0.285,30.5,5.16
+RBF,บริษัท อาร์ แอนด์ บี ฟู้ด ซัพพลาย จำกัด (มหาชน),Packaged Foods,Consumer Defensive,7488179712.0,0.422,3.78,4.94
+READY,บริษัท เรดดี้แพลนเน็ต จำกัด (มหาชน),Software - Infrastructure,Technology,376799936.0,0.802,3.14,9.43
+RICHY,บริษัท ริชี่ เพลซ 2002 จำกัด (มหาชน),Real Estate - Development,Real Estate,309381344.0,0.01,0.19,
+RJH,บริษัท โรงพยาบาลราชธานี จำกัด (มหาชน),Medical Care Facilities,Healthcare,4050003200.0,,13.8,4.26
+RML,บริษัท ไรมอน แลนด์ จำกัด (มหาชน),Real Estate - Development,Real Estate,637474304.0,0.219,0.11,
+ROCK,บริษัท ร้อกเวิธ จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,224000000.0,-0.032,11.2,8.93
+ROCTEC,บริษัท ร็อคเทค โกลบอล จำกัด (มหาชน),Information Technology Services,Technology,4951965696.0,0.239,0.61,2.54
+ROH,บริษัท โรงแรมรอยัล ออคิด (ประเทศไทย) จำกัด (มหาชน),Lodging,Consumer Cyclical,1136089856.0,0.029,1.21,
+ROJNA,บริษัท สวนอุตสาหกรรมโรจนะ จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,11112540160.0,0.238,5.5,9.62
+RP,บริษัท ท่าเรือราชาเฟอร์รี่ จำกัด (มหาชน),Marine Shipping,Industrials,122495088.0,0.04,0.61,
+RPC,บริษัท อาร์พีซีจี จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,417492480.0,,0.32,3.45
+RPH,บริษัท โรงพยาบาลราชพฤกษ์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,2652035072.0,-0.097,5.0,5.49
+RS,บริษัท อาร์เอส จำกัด (มหาชน),Entertainment,Communication Services,370977056.0,-0.158,0.17,
+RSP,บริษัท ริช สปอร์ต จำกัด (มหาชน),Footwear & Accessories,Consumer Cyclical,824729984.0,0.059,1.11,16.07
+RT,บริษัท ไร้ท์ทันเน็ลลิ่ง จำกัด (มหาชน),Engineering & Construction,Industrials,413659584.0,-0.02,0.28,
+RWI,บริษัท ระยองไวร์ อินดัสตรีส์ จำกัด (มหาชน),Steel,Basic Materials,173902640.0,-0.287,0.19,
+S,บริษัท สิงห์ เอสเตท จำกัด (มหาชน),Resorts & Casinos,Consumer Cyclical,3975157248.0,0.361,0.58,1.67
+S11,บริษัท เอส 11 กรุ๊ป จำกัด (มหาชน),Credit Services,Financial Services,2452000000.0,,4.0,8.58
+SA,บริษัท ไซมิส แอสเสท จำกัด (มหาชน),Real Estate - Development,Real Estate,8632130560.0,-0.078,7.2,1.11
+SAAM,บริษัท เอสเอเอเอ็ม ดีเวลลอปเมนท์ จำกัด (มหาชน),Utilities - Renewable,Utilities,1508920064.0,0.369,4.76,1.03
+SABINA,บริษัท ซาบีน่า จำกัด (มหาชน),Apparel Manufacturing,Consumer Cyclical,5733749760.0,-0.106,16.5,7.06
+SAF,บริษัท เอส.เอ.เอฟ. สเปเชียล สตีล จำกัด (มหาชน),Steel,Basic Materials,102000000.0,0.724,0.34,2.94
+SAFE,บริษัท เซฟ เฟอร์ทิลิตี้ กรุ๊ป จำกัด (มหาชน),Medical Care Facilities,Healthcare,1975660800.0,0.043,6.5,6.36
+SAK,บริษัท ศักดิ์สยามลิสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,7671360000.0,-0.015,3.66,5.24
+SALEE,บริษัท สาลี่อุตสาหกรรม จำกัด (มหาชน),Specialty Chemicals,Basic Materials,577783936.0,-0.099,0.38,3.16
+SAM,บริษัท สามชัย สตีล อินดัสทรี จำกัด (มหาชน),Steel,Basic Materials,156768768.0,-0.101,0.15,
+SAMART,บริษัท สามารถคอร์ปอเรชั่น จำกัด (มหาชน),Information Technology Services,Technology,6391301632.0,0.359,6.35,4.27
+SAMCO,บริษัท สัมมากร จำกัด (มหาชน),Real Estate Services,Real Estate,468514336.0,0.221,0.73,2.74
+SAMTEL,บริษัท สามารถเทลคอม จำกัด (มหาชน),Telecom Services,Communication Services,2434920192.0,,3.94,2.5
+SANKO,บริษัท ซังโกะ ไดคาซติ้ง (ประเทศไทย) จำกัด (มหาชน),Auto Parts,Consumer Cyclical,275496160.0,-0.068,0.87,4.4
+SAPPE,บริษัท เซ็ปเป้ จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,9915924480.0,-0.191,32.5,6.57
+SAT,บริษัท สมบูรณ์ แอ๊ดวานซ์ เทคโนโลยี จำกัด (มหาชน),Auto Parts,Consumer Cyclical,6973179392.0,0.304,16.4,9.7
+SAUCE,บริษัท ไทยเทพรส จำกัด (มหาชน),Packaged Foods,Consumer Defensive,14579999744.0,-0.025,40.5,4.31
+SAV,บริษัท สามารถ เอวิเอชั่น โซลูชั่นส์ จำกัด (มหาชน),Airports & Air Services,Industrials,8108000768.0,,12.7,6.72
+SAWAD,บริษัท ศรีสวัสดิ์ คอร์ปอเรชั่น จำกัด (มหาชน),Credit Services,Financial Services,46106816512.0,0.512,27.75,2.57
+SAWANG,บริษัท สว่างเอ็กซ์ปอร์ต จำกัด (มหาชน),Luxury Goods,Consumer Cyclical,168000000.0,-0.097,7.0,
+SC,บริษัท เอสซี แอสเสท คอร์ปอเรชั่น จำกัด (มหาชน),Real Estate - Development,Real Estate,8725616640.0,0.374,2.04,7.35
+SCAP,บริษัท ศรีสวัสดิ์ แคปปิตอล 1969 จำกัด (มหาชน),Credit Services,Financial Services,7784447488.0,0.139,1.15,0.2
+SCB,บริษัท เอสซีบี เอกซ์ จำกัด (มหาชน),Banks - Regional,Financial Services,496648323072.0,0.189,147.5,7.6
+SCC,บริษัท ปูนซิเมนต์ไทย จำกัด (มหาชน),Conglomerates,Industrials,263999995904.0,0.584,220.0,2.22
+SCCC,บริษัท ปูนซีเมนต์นครหลวง จำกัด (มหาชน),Building Materials,Basic Materials,44849000448.0,0.233,150.5,7.26
+SCG,บริษัท ราชพัฒนา เอ็นเนอร์ยี จำกัด (มหาชน),Utilities - Regulated Electric,Utilities,2909239040.0,,2.5,1.97
+SCGD,บริษัท เอสซีจี เดคคอร์ จำกัด (มหาชน),Building Materials,Basic Materials,8827499520.0,1.223,5.35,6.18
+SCGP,บริษัท เอสซีจี แพคเกจจิ้ง จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,84141236224.0,0.799,19.6,2.91
+SCI,บริษัท เอสซีไอ อีเลคตริค จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,735000000.0,0.169,0.98,
+SCL,บริษัท เอส.ซี.แอล.มอเตอร์ พาร์ท จำกัด (มหาชน),Auto Parts,Consumer Cyclical,337500000.0,0.752,1.35,6.81
+SCM,บริษัท ซัคเซสมอร์ บีอิ้งค์ จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,105451440.0,-0.46,0.14,
+SCN,บริษัท สแกน อินเตอร์ จำกัด (มหาชน),Utilities - Regulated Gas,Utilities,449076768.0,-0.036,0.37,
+SCP,บริษัท ทักษิณคอนกรีต จำกัด (มหาชน),Building Materials,Basic Materials,2597159936.0,0.163,9.2,15.79
+SDC,บริษัท สามารถ ดิจิตอล จำกัด (มหาชน),Communication Equipment,Technology,1380654720.0,-0.938,0.04,
+SE,บริษัท สยามอีสต์ โซลูชั่น จำกัด (มหาชน),Industrial Distribution,Industrials,326136128.0,0.348,0.48,5.41
+SEAOIL,บริษัท ซีออยล์ จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,2837689856.0,-0.019,3.84,5.14
+SECURE,บริษัท เอ็นฟอร์ซ ซีเคียว จำกัด (มหาชน),Software - Infrastructure,Technology,1315084800.0,0.358,12.8,7.58
+SEI,บริษัท เอสอีไอ เมดิคัล จำกัด (มหาชน),Medical Distribution,Healthcare,401199968.0,,2.36,4.51
+SELIC,บริษัท ซีลิค คอร์พ จำกัด (มหาชน),Specialty Chemicals,Basic Materials,1625191936.0,-0.276,2.66,1.3
+SENA,บริษัท เสนาดีเวลลอปเม้นท์ จำกัด (มหาชน),Real Estate - Development,Real Estate,2645892608.0,0.235,1.87,7.28
+SENX,บริษัท เซ็น เอกซ์ จำกัด (มหาชน),Real Estate - Development,Real Estate,963080192.0,0.126,0.23,1.88
+SFLEX,บริษัท สตาร์เฟล็กซ์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,2540197888.0,,3.36,2.98
+SFT,บริษัท ชริ้งเฟล็กซ์ (ประเทศไทย) จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,796400000.0,0.188,1.81,3.89
+SGC,บริษัท เอสจี แคปปิตอล จำกัด (มหาชน),Credit Services,Financial Services,5928026624.0,1.098,0.95,
+SGF,บริษัท เอสจีเอฟ แคปปิตอล จำกัด (มหาชน),Credit Services,Financial Services,235800016.0,0.269,0.18,
+SGP,บริษัท สยามแก๊ส แอนด์ ปิโตรเคมีคัลส์ จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,14059652096.0,0.105,7.65,2.61
+SHANG,บริษัท แชงกรี-ลา โฮเต็ล จำกัด (มหาชน),Lodging,Consumer Cyclical,6760000000.0,,52.0,0.96
+SHR,บริษัท เอส โฮเทล แอนด์ รีสอร์ท จำกัด (มหาชน),Resorts & Casinos,Consumer Cyclical,6756043264.0,0.295,1.88,5.1
+SIAM,บริษัท สยามสตีลอินเตอร์เนชั่นแนล จำกัด (มหาชน),"Furnishings, Fixtures & Appliances",Consumer Cyclical,409256832.0,-0.029,0.69,
+SPTX,บริษัท เอสพีที เอกซ์ จำกัด (มหาชน),Software - Application,Technology,1836448768.0,-2.921,0.01,
+SICT,บริษัท ซิลิคอน คราฟท์ เทคโนโลยี จำกัด (มหาชน),Semiconductors,Technology,1123199616.0,0.27,2.34,1.05
+SIMAT,บริษัท ไซแมท เทคโนโลยี จำกัด (มหาชน),Electronics & Computer Distribution,Technology,726392384.0,-0.096,1.12,7.44
+SINGER,บริษัท ซิงเกอร์ประเทศไทย จำกัด (มหาชน),Credit Services,Financial Services,4686837760.0,0.043,5.75,
+SINO,บริษัท ไซโน โลจิสติกส์ คอร์ปอเรชั่น จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,946400000.0,1.081,0.91,6.63
+SIRI,บริษัท แสนสิริ จำกัด (มหาชน),Real Estate - Development,Real Estate,26852395008.0,0.675,1.54,10.26
+SIS,บริษัท เอสไอเอส ดิสทริบิวชั่น (ประเทศไทย) จำกัด (มหาชน),Electronics & Computer Distribution,Technology,8194648576.0,0.011,23.4,5.15
+SISB,บริษัท เอสไอเอสบี จำกัด (มหาชน),Education & Training Services,Consumer Defensive,11562000384.0,-0.291,12.3,4.02
+SITHAI,บริษัท ศรีไทยซุปเปอร์แวร์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,2715859712.0,0.283,1.03,5.71
+SJWD,บริษัท เอสซีจี เจดับเบิ้ลยูดี โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,15278123008.0,,8.6,7.68
+SK,บริษัท ศิรกร จำกัด (มหาชน),Building Materials,Basic Materials,253000000.0,-0.022,0.55,8.93
+SKE,บริษัท สากล เอนเนอยี จำกัด (มหาชน),Utilities - Diversified,Utilities,178560080.0,0.11,0.16,
+SVI,บริษัท เอสวีไอ จำกัด (มหาชน),Electronic Components,Technology,15826094080.0,-0.021,7.35,3.27
+SKIN,บริษัท สกิน ลาบอราทอรี่ จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,178560000.0,,1.24,
+SKN,บริษัท ส.กิจชัย เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Lumber & Wood Production,Basic Materials,5400000000.0,0.179,6.75,10.95
+SKR,บริษัท ศิครินทร์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,13735093248.0,0.004,6.75,3.65
+SKY,บริษัท สกาย ไอซีที จำกัด (มหาชน),Information Technology Services,Technology,10185374720.0,-0.095,14.2,
+SLP,บริษัท สาลี่ พริ้นท์ติ้ง จำกัด (มหาชน),Specialty Business Services,Industrials,432000032.0,-0.122,0.36,
+SSP,บริษัท เสริมสร้าง พาวเวอร์ คอร์ปอเรชั่น จำกัด (มหาชน),Utilities - Renewable,Utilities,4170718208.0,,3.34,6.07
+SMD100,บริษัท เอสเอ็มดี ไรส์ จำกัด (มหาชน),Medical Distribution,Healthcare,388405184.0,0.036,1.87,47.37
+SMIT,บริษัท สหมิตรเครื่องกล จำกัด (มหาชน),Steel,Basic Materials,1908000000.0,0.148,3.6,6.59
+SMPC,บริษัท สหมิตรถังแก๊ส จำกัด (มหาชน),Metal Fabrication,Industrials,5006984192.0,-0.147,9.35,7.45
+SMT,บริษัท สตาร์ส ไมโครอิเล็กทรอนิกส์ (ประเทศไทย) จำกัด (มหาชน),Semiconductors,Technology,1065611392.0,0.765,1.31,2.22
+SNC,บริษัท เอส เอ็น ซี ฟอร์เมอร์ จำกัด (มหาชน),Electronic Components,Technology,2172157952.0,-0.349,6.0,
+SNNP,บริษัท ศรีนานาพร มาร์เก็ตติ้ง จำกัด (มหาชน),Packaged Foods,Consumer Defensive,6480036864.0,-0.193,7.2,6.45
+SNP,บริษัท เอส แอนด์ พี ซินดิเคท จำกัด (มหาชน),Restaurants,Consumer Cyclical,4799925760.0,0.261,9.4,9.52
+SNPS,บริษัท สเปเชี่ยลตี้ เนเชอรัล โปรดักส์ จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,1927800064.0,,4.76,4.27
+SO,บริษัท สยามราชธานี จำกัด (มหาชน),Specialty Business Services,Industrials,1980784000.0,0.344,4.16,9.05
+SONIC,บริษัท โซนิค อินเตอร์เฟรท จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,1129744640.0,0.206,1.47,3.83
+SORKON,บริษัท ส. ขอนแก่นฟู้ดส์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1194767232.0,,3.82,6.48
+SPA,บริษัท สยามเวลเนสกรุ๊ป จำกัด (มหาชน),Personal Services,Consumer Cyclical,4770896384.0,,3.72,2.58
+SPACK,บริษัท เอส. แพ็ค แอนด์ พริ้นท์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,360000000.0,0.316,1.2,
+SPALI,บริษัท ศุภาลัย จำกัด (มหาชน),Real Estate - Development,Real Estate,33201594368.0,0.51,17.6,7.87
+SPC,บริษัท สหพัฒนพิบูล จำกัด (มหาชน),Food Distribution,Consumer Defensive,18892500992.0,0.034,57.25,4.19
+SPCG,บริษัท เอสพีซีจี จำกัด (มหาชน),Utilities - Renewable,Utilities,9660478464.0,0.339,9.15,23.35
+SPG,บริษัท สยามภัณฑ์กรุ๊ป จำกัด (มหาชน),Specialty Chemicals,Basic Materials,4036499968.0,,11.7,6.84
+SPI,บริษัท สหพัฒนาอินเตอร์โฮลดิ้ง จำกัด (มหาชน),Real Estate Services,Real Estate,36460535808.0,0.095,42.5,0.91
+SPRC,บริษัท สตาร์ ปิโตรเลียม รีไฟน์นิ่ง จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,33169651712.0,0.509,7.65,7.89
+SPREME,บริษัท สุพรีม ดิสทิบิวชั่น จำกัด (มหาชน),Electronics & Computer Distribution,Technology,1176600064.0,,1.59,7.41
+SPRIME,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ เอส ไพรม์ โกรท,REIT - Diversified,Real Estate,1608300032.0,0.267,3.6,11.05
+SPVI,บริษัท เอส พี วี ไอ จำกัด (มหาชน),Electronics & Computer Distribution,Technology,976000000.0,0.095,2.44,5.45
+SQ,บริษัท สหกลอิควิปเมนท์ จำกัด (มหาชน),Engineering & Construction,Industrials,333256384.0,0.054,0.29,
+SR,บริษัท สยามราช จำกัด (มหาชน),Conglomerates,Industrials,216544000.0,-0.015,0.32,
+SRICHA,บริษัท ศรีราชาคอนสตรัคชั่น จำกัด (มหาชน),Engineering & Construction,Industrials,4028427008.0,0.372,13.0,7.46
+SRIPANWA,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์โรงแรมศรีพันวา,REIT - Hotel & Motel,Real Estate,1506945664.0,0.138,5.4,7.94
+SRS,บริษัท สิริซอฟต์ จำกัด (มหาชน),Information Technology Services,Technology,243200000.0,,1.52,13.79
+SSF,บริษัท สุรพลฟู้ดส์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1363495040.0,0.07,5.05,7.26
+SSSC,บริษัท ศูนย์บริการเหล็กสยาม จำกัด (มหาชน),Steel,Basic Materials,1420795392.0,0.058,2.22,7.37
+SST,บริษัท ทรัพย์ศรีไทย จำกัด (มหาชน),Packaged Foods,Consumer Defensive,637012416.0,0.014,1.21,
+SSTRT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์ทรัพย์ศรีไทย,REIT - Industrial,Real Estate,844883008.0,-0.094,4.22,9.3
+STA,บริษัท ศรีตรังแอโกรอินดัสทรี จำกัด (มหาชน),Specialty Chemicals,Basic Materials,21964800000.0,0.577,14.3,3.4
+STANLY,บริษัท ไทยสแตนเลย์การไฟฟ้า จำกัด (มหาชน),Auto Parts,Consumer Cyclical,15401624576.0,0.057,201.0,9.66
+STARM,บริษัท สตาร์ มันนี่ จำกัด (มหาชน),Credit Services,Financial Services,1110999936.0,,1.01,5.63
+STC,บริษัท เอสทีซี คอนกรีตโปรดัคท์ จำกัด (มหาชน),Building Materials,Basic Materials,176080000.0,-0.158,0.31,5.3
+STECH,บริษัท สยามเทคนิคคอนกรีต จำกัด (มหาชน),Building Materials,Basic Materials,746749952.0,0.193,1.03,3.81
+STECON,บริษัท สเตคอน กรุ๊ป จำกัด (มหาชน),Engineering & Construction,Industrials,19076435968.0,,12.7,4.23
+STGT,บริษัท ศรีตรังโกลฟส์ (ประเทศไทย) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,24993585152.0,0.59,8.8,5.52
+STI,บริษัท สโตนเฮ้นจ์ อินเตอร์ จำกัด (มหาชน),Engineering & Construction,Industrials,1037154944.0,0.082,1.72,1.54
+STOWER,บริษัท สกาย ทาวเวอร์ จำกัด (มหาชน),Steel,Basic Materials,110921256.0,0.769,0.03,
+STP,บริษัท สหไทยการพิมพ์และบรรจุภัณฑ์ จำกัด (มหาชน),Paper & Paper Products,Basic Materials,1100000000.0,0.687,11.0,4.5
+STPI,บริษัท เอสทีพี แอนด์ ไอ จำกัด (มหาชน),Metal Fabrication,Industrials,10058112000.0,0.72,5.55,
+STX,บริษัท สโตนวัน จำกัด (มหาชน),Building Materials,Basic Materials,337848064.0,,1.1,8.55
+SUC,บริษัท สหยูเนี่ยน จำกัด (มหาชน),Conglomerates,Industrials,8700000256.0,0.241,29.0,5.38
+SUN,บริษัท ซันสวีท จำกัด (มหาชน),Farm Products,Consumer Defensive,2136230656.0,0.04,2.76,3.55
+SUPER,บริษัท ซุปเปอร์ เอนเนอร์ยี คอร์เปอเรชั่น จำกัด (มหาชน),Utilities - Renewable,Utilities,3281936640.0,0.27,0.12,
+SUSCO,บริษัท ซัสโก้ จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,2146999808.0,-0.393,2.26,2.73
+SUTHA,บริษัท สุธากัญจน์ จำกัด (มหาชน),Chemicals,Basic Materials,869743360.0,0.37,2.4,5.83
+SVOA,บริษัท เอสวีโอเอ จำกัด (มหาชน),Electronics & Computer Distribution,Technology,1399173632.0,0.09,1.72,4.62
+SVR,บริษัท สิวารมณ์ เรียลเอสเตท จำกัด (มหาชน),Real Estate - Development,Real Estate,153000000.0,-0.059,0.3,
+SVT,บริษัท ซันเวนดิ้ง เทคโนโลยี จำกัด (มหาชน),Business Equipment & Supplies,Industrials,909999936.0,0.395,1.3,3.76
+SWC,บริษัท เชอร์วู้ด คอร์ปอเรชั่น (ประเทศไทย) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,2084700416.0,,4.18,7.49
+SYMC,บริษัท ซิมโฟนี่ คอมมูนิเคชั่น จำกัด (มหาชน),Telecom Services,Communication Services,1725946368.0,-0.37,3.98,3.8
+SYNEX,บริษัท ซินเน็ค (ประเทศไทย) จำกัด (มหาชน),Electronics & Computer Distribution,Technology,8388875776.0,,9.9,4.75
+SYNTEC,บริษัท ซินเท็ค คอนสตรัคชั่น จำกัด (มหาชน),Engineering & Construction,Industrials,2813459200.0,0.358,1.78,6.08
+TACC,บริษัท ที.เอ.ซี. คอนซูเมอร์ จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,3420000000.0,0.203,5.7,6.94
+TAE,บริษัท ไทย อะโกร เอ็นเนอร์ยี่ จำกัด (มหาชน),Chemicals,Basic Materials,529999968.0,-0.08,0.53,
+TAKUNI,บริษัท ทาคูนิ กรุ๊ป จำกัด (มหาชน),Engineering & Construction,Industrials,288000096.0,0.014,0.36,
+TAN,บริษัท ธนจิรา รีเทล คอร์ปอเรชั่น จำกัด (มหาชน),Luxury Goods,Consumer Cyclical,1160896000.0,,3.88,6.92
+TASCO,บริษัท ทิปโก้แอสฟัลท์ จำกัด (มหาชน),Building Materials,Basic Materials,21623554048.0,0.081,13.7,7.19
+TATG,บริษัท ไทย ออโต ทูลส์ แอนด์ ดาย จำกัด (มหาชน),Auto Parts,Consumer Cyclical,400000000.0,,1.0,7.0
+TBN,บริษัท ทีบีเอ็น คอร์ปอเรชั่น จำกัด (มหาชน),Software - Application,Technology,378000000.0,0.468,3.78,4.95
+TC,บริษัท ทรอปิคอลแคนนิ่ง (ประเทศไทย) จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1749000064.0,-0.218,5.3,5.61
+TCAP,บริษัท ทุนธนชาต จำกัด (มหาชน),Credit Services,Financial Services,62916304896.0,0.135,60.0,5.76
+TCC,บริษัท ไทย แคปปิตอล คอร์ปอเรชั่น จำกัด (มหาชน),Thermal Coal,Energy,390754048.0,-1.0,0.28,
+TCJ,บริษัท ที.ซี.เจ.เอเซีย จำกัด (มหาชน),Farm & Heavy Construction Machinery,Industrials,251319296.0,0.288,2.38,
+TCMC,บริษัท ทีซีเอ็ม คอร์ปอเรชั่น จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,228960352.0,0.032,0.3,
+TCOAT,บริษัท อุตสาหกรรมผ้าเคลือบพลาสติกไทย จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,278249984.0,0.122,26.5,1.89
+TEAM,บริษัท ทีมพรีซิชั่น จำกัด (มหาชน),Electronic Components,Technology,1707329792.0,1.27,2.68,7.87
+TEAMG,บริษัท ทีม คอนซัลติ้ง เอนจิเนียริ่ง แอนด์ แมเนจเมนท์ จำกัด (มหาชน),Engineering & Construction,Industrials,2650001408.0,-2.174,3.24,4.55
+TEGH,บริษัท ไทยอีสเทิร์น กรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Specialty Chemicals,Basic Materials,3412800000.0,0.778,3.16,6.48
+TEKA,บริษัท ฑีฆาก่อสร้าง จำกัด (มหาชน),Engineering & Construction,Industrials,555000000.0,-0.02,1.85,7.14
+TERA,บริษัท เทอร์ราไบท์ พลัส จำกัด (มหาชน),Electronics & Computer Distribution,Technology,247200000.0,,1.03,6.57
+TIPH,บริษัท ทิพย กรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Insurance - Diversified,Financial Services,12361280512.0,0.087,20.8,7.25
+TISCO,บริษัท ทิสโก้ไฟแนนเชียลกรุ๊ป จำกัด (มหาชน),Banks - Regional,Financial Services,91675049984.0,0.204,114.5,6.77
+TITLE,บริษัท ร่มโพธิ์ พร็อพเพอร์ตี้ จำกัด (มหาชน),Real Estate - Development,Real Estate,6412855808.0,0.236,8.2,4.97
+TK,บริษัท ฐิติกร จำกัด (มหาชน),Credit Services,Financial Services,2160000000.0,,4.32,4.55
+TKC,บริษัท เทิร์นคีย์ คอมมูนิเคชั่น เซอร์วิส จำกัด (มหาชน),Engineering & Construction,Industrials,3340000256.0,0.556,8.35,2.38
+TKN,บริษัท เถ้าแก่น้อย ฟู๊ดแอนด์มาร์เก็ตติ้ง จำกัด (มหาชน),Packaged Foods,Consumer Defensive,5869499904.0,0.84,4.3,5.66
+TKS,บริษัท ที.เค.เอส. เทคโนโลยี จำกัด (มหาชน),Specialty Business Services,Industrials,3295633664.0,,6.7,6.62
+TKT,บริษัท ที.กรุงไทยอุตสาหกรรม จำกัด (มหาชน),Auto Parts,Consumer Cyclical,231514816.0,0.168,0.66,
+TFG,บริษัท ไทยฟู้ดส์ กรุ๊ป จำกัด (มหาชน),Farm Products,Consumer Defensive,37559795712.0,0.21,6.45,14.23
+TFI,บริษัท ไทยฟิวเจอร์อินคอร์ปอเรชั่น จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,673048960.0,0.301,0.04,
+TFM,บริษัท ไทยยูเนี่ยน ฟีดมิลล์ จำกัด (มหาชน),Farm Products,Consumer Defensive,6249999872.0,0.503,6.25,9.3
+TFMAMA,บริษัท ไทยเพรซิเดนท์ฟูดส์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,62973464576.0,0.04,191.0,2.68
+TGE,บริษัท ท่าฉาง กรีน เอ็นเนอร์ยี่ จำกัด (มหาชน),Utilities - Renewable,Utilities,3365666304.0,0.044,1.34,0.23
+TGH,บริษัท ไทยกรุ๊ป โฮลดิ้งส์ จำกัด (มหาชน),Insurance - Diversified,Financial Services,8273073664.0,0.091,11.0,0.91
+TGPRO,บริษัท ไทย-เยอรมัน โปรดักส์ จำกัด (มหาชน),Steel,Basic Materials,235972992.0,-0.008,0.05,
+TH,บริษัท ตงฮั้ว โฮลดิ้ง จำกัด (มหาชน),Financial Conglomerates,Financial Services,469222560.0,0.193,0.47,
+THAI,บริษัท การบินไทย จำกัด (มหาชน),Airlines,Industrials,182556229632.0,0.001,6.45,3.07
+THANA,บริษัท ธนาสิริ กรุ๊ป จำกัด (มหาชน),Real Estate - Development,Real Estate,427158144.0,-0.048,1.54,2.05
+THANI,บริษัท ราชธานีลิสซิ่ง จำกัด (มหาชน),Credit Services,Financial Services,11275084800.0,0.073,1.81,5.7
+THCOM,บริษัท ไทยคม จำกัด (มหาชน),Communication Equipment,Technology,12495562752.0,0.342,11.4,
+THE,บริษัท เดอะ สตีล จำกัด (มหาชน),Steel,Basic Materials,881649152.0,0.36,0.8,
+THG,บริษัท ธนบุรี เฮลท์แคร์ กรุ๊ป จำกัด (มหาชน),Medical Care Facilities,Healthcare,16191846400.0,-0.351,9.05,1.51
+THIP,บริษัท ทานตะวันอุตสาหกรรม จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,2078992768.0,0.131,23.1,7.11
+THMUI,บริษัท ไทยมุ้ย คอร์ปอเรชั่น จำกัด (มหาชน),Industrial Distribution,Industrials,108800000.0,0.12,0.32,
+THRE,บริษัท ไทยรับประกันภัยต่อ จำกัด (มหาชน),Insurance - Reinsurance,Financial Services,1601697664.0,0.351,0.38,
+THREL,บริษัท ไทยรีประกันชีวิต จำกัด (มหาชน),Insurance - Reinsurance,Financial Services,682000000.0,-0.026,1.1,
+TIDLOR,บริษัท ติดล้อ โฮลดิ้งส์ จำกัด (มหาชน),Credit Services,Financial Services,56181035008.0,,19.4,1.71
+TIGER,บริษัท ไทย อิงเกอร์ โฮลดิ้ง จำกัด (มหาชน),Engineering & Construction,Industrials,115000000.0,-0.311,0.25,
+TIPCO,บริษัท ทิปโก้ฟูดส์ จำกัด (มหาชน),Beverages - Non-Alcoholic,Consumer Defensive,3498702336.0,0.137,7.25,1.36
+TL,บริษัท เทคลีด เอ็นพีเอ็น จำกัด (มหาชน),Drug Manufacturers - Specialty & Generic,Healthcare,1689919104.0,0.02,0.4,
+TLI,บริษัท ไทยประกันชีวิต จำกัด (มหาชน),Insurance - Life,Financial Services,125950001152.0,0.162,11.0,5.45
+TM,บริษัท เทคโนเมดิคัล จำกัด (มหาชน),Medical Distribution,Healthcare,280280192.0,0.303,0.91,
+TMAN,บริษัท ที.แมน ฟาร์มาซูติคอล จำกัด (มหาชน),Drug Manufacturers - Specialty & Generic,Healthcare,5200052224.0,,13.0,4.27
+TMC,บริษัท ที.เอ็ม.ซี. อุตสาหกรรม จำกัด (มหาชน),Farm & Heavy Construction Machinery,Industrials,325748000.0,-0.01,0.71,
+TMD,บริษัท อุตสาหกรรมถังโลหะไทย จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,4049999872.0,0.032,27.0,6.3
+TMI,บริษัท ธีระมงคล อุตสาหกรรม จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,362579072.0,0.052,0.54,1.82
+TMILL,บริษัท ที เอส ฟลาวมิลล์ จำกัด (มหาชน),Farm Products,Consumer Defensive,821247936.0,0.057,2.06,6.8
+TMT,บริษัท ทีเอ็มที สตีล จำกัด (มหาชน),Steel,Basic Materials,2490367744.0,0.36,2.86,6.99
+TMW,บริษัท ไทยมิตซูวา จำกัด (มหาชน),Specialty Chemicals,Basic Materials,2443875072.0,0.583,61.25,5.87
+TNDT,บริษัท ไทย เอ็น ดี ที จำกัด (มหาชน),Engineering & Construction,Industrials,329000704.0,-0.393,0.19,
+TNH,บริษัท โรงพยาบาลไทยนครินทร์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,5760000000.0,-0.042,32.0,1.88
+TNITY,บริษัท ทรีนีตี้ วัฒนา จำกัด (มหาชน),Capital Markets,Financial Services,548876416.0,-0.032,2.56,
+TNL,บริษัท ธนูลักษณ์ จำกัด (มหาชน),Credit Services,Financial Services,7280481280.0,-0.075,23.9,2.51
+TNP,บริษัท ธนพิริยะ จำกัด (มหาชน),Grocery Stores,Consumer Defensive,2288000000.0,0.157,2.86,3.69
+TNPC,บริษัท ไทยนามพลาสติกส์ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,262426704.0,-0.076,0.77,
+TNR,บริษัท ไทยนิปปอนรับเบอร์อินดัสตรี้ จำกัด (มหาชน),Household & Personal Products,Consumer Defensive,1650000000.0,0.567,5.5,12.28
+TOA,บริษัท ทีโอเอ เพ้นท์ (ประเทศไทย) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,31405070336.0,0.222,16.2,4.56
+TOG,บริษัท ไทยออพติคอล กรุ๊ป จำกัด (มหาชน),Medical Instruments & Supplies,Healthcare,3367657984.0,-0.014,7.1,8.33
+TOP,บริษัท ไทยออยล์ จำกัด (มหาชน),Oil & Gas Refining & Marketing,Energy,120068661248.0,0.985,53.75,3.65
+TOPP,บริษัท ไทย โอ.พี.พี. จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,822000000.0,-0.083,137.0,3.58
+TPA,บริษัท ไทยโพลีอะคริลิค จำกัด (มหาชน),Specialty Chemicals,Basic Materials,315900000.0,0.182,2.6,
+TPAC,บริษัท พลาสติค และหีบห่อไทย จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,3036914944.0,0.229,9.3,4.22
+TPBI,บริษัท ทีพีบีไอ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,1283990016.0,0.383,3.08,7.37
+TPCH,บริษัท ทีพีซี เพาเวอร์โฮลดิ้ง จำกัด (มหาชน),Utilities - Renewable,Utilities,670003968.0,0.613,1.67,46.49
+TPCS,บริษัท ทีพีซีเอส จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,1090800000.0,-0.123,10.1,6.67
+TPIPL,บริษัท ทีพีไอ โพลีน จำกัด (มหาชน),Building Materials,Basic Materials,14769482752.0,0.295,0.78,3.8
+TPIPP,บริษัท ทีพีไอ โพลีน เพาเวอร์ จำกัด (มหาชน),Utilities - Renewable,Utilities,16043999232.0,0.206,1.91,3.57
+TPL,บริษัท ไทยพาร์เซิล จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,563333760.0,0.638,0.49,
+TPLAS,บริษัท ไทยอุตสาหกรรมพลาสติก (1994) จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,243000000.0,0.237,0.9,4.44
+TPOLY,บริษัท ไทยโพลีคอนส์ จำกัด (มหาชน),Engineering & Construction,Industrials,108824304.0,0.24,0.19,
+TPP,บริษัท ไทยบรรจุภัณฑ์และการพิมพ์ จำกัด (มหาชน),Packaging & Containers,Consumer Cyclical,442500000.0,0.023,11.8,8.2
+TPRIME,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าไทยแลนด์ ไพร์ม พร็อพเพอร์ตี้,REIT - Office,Real Estate,4024125184.0,0.057,7.35,7.64
+TPS,บริษัท เดอะแพรคทิเคิลโซลูชั่น จำกัด (มหาชน),Communication Equipment,Technology,1393403136.0,-0.075,3.32,12.05
+TQM,บริษัท ทีคิวเอ็ม อัลฟา จำกัด (มหาชน),Insurance Brokers,Financial Services,8253373440.0,-0.033,13.9,7.64
+TQR,บริษัท ที คิว อาร์ จำกัด (มหาชน),Insurance - Reinsurance,Financial Services,1184499968.0,0.265,5.15,8.57
+TR,บริษัท ไทยเรยอน จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,5292000256.0,0.028,26.25,0.19
+TRC,บริษัท ทีอาร์ซี คอนสตรัคชั่น จำกัด (มหาชน),Engineering & Construction,Industrials,573066496.0,0.33,0.41,
+TRITN,บริษัท ไทรทัน โฮลดิ้ง จำกัด (มหาชน),Engineering & Construction,Industrials,656903680.0,-0.38,0.03,
+TRP,บริษัท เอสเตติก คอนเนค จำกัด (มหาชน),Medical Care Facilities,Healthcare,1431302656.0,0.879,4.34,4.52
+TRT,บริษัท ถิรไทย จำกัด (มหาชน),Electrical Equipment & Parts,Industrials,1238193152.0,0.23,4.02,4.95
+TRU,บริษัท ไทยรุ่งยูเนียนคาร์ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,2611954688.0,-0.268,3.9,7.69
+TRUBB,บริษัท ไทยรับเบอร์ลาเท็คซ์กรุ๊ป จำกัด (มหาชน),Specialty Chemicals,Basic Materials,621509632.0,0.23,0.76,0.38
+TRUE,บริษัท ทรู คอร์ปอเรชั่น จำกัด (มหาชน),Telecom Services,Communication Services,490639785984.0,-0.257,14.2,2.14
+TRV,บริษัท ที.อาร์.วี. รับเบอร์ โปรดักส์ จำกัด (มหาชน),Auto Parts,Consumer Cyclical,372000000.0,-0.086,1.55,
+TSC,บริษัท ไทยสตีลเคเบิล จำกัด (มหาชน),Auto Parts,Consumer Cyclical,3767099904.0,0.068,14.5,8.16
+TSE,บริษัท ไทย โซล่าร์ เอ็นเนอร์ยี่ จำกัด (มหาชน),Utilities - Renewable,Utilities,930695168.0,0.329,0.44,
+TSI,บริษัท ไทยเศรษฐกิจประกันภัย จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,114174824.0,0.14,0.06,
+TSTE,บริษัท ทีเอสทีอี จำกัด (มหาชน),Farm Products,Consumer Defensive,3871604480.0,0.042,10.1,1.58
+TSTH,บริษัท ทาทา สตีล (ประเทศไทย) จำกัด (มหาชน),Steel,Basic Materials,6063509504.0,0.76,0.72,
+TWZ,บริษัท ทีดับบลิวแซด คอร์ปอเรชั่น จำกัด (มหาชน),Specialty Retail,Consumer Cyclical,397218112.0,-0.043,0.02,
+TTA,บริษัท โทรีเซนไทย เอเยนต์ซีส์ จำกัด (มหาชน),Conglomerates,Industrials,9243112448.0,0.605,5.1,4.4
+TTB,ธนาคารทหารไทยธนชาต จำกัด (มหาชน),Banks - Regional,Financial Services,220128903168.0,0.299,2.32,5.81
+TTCL,บริษัท ทีทีซีแอล จำกัด (มหาชน),Engineering & Construction,Industrials,86240008.0,0.238,0.14,
+TTI,บริษัท โรงงานผ้าไทย จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,1250000000.0,0.488,25.0,2.0
+TTT,บริษัท โทเร เท็กซ์ไทล์ (ประเทศไทย) จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,2429280000.0,0.139,42.0,6.94
+TTW,บริษัท ทีทีดับบลิว จำกัด (มหาชน),Utilities - Regulated Water,Utilities,37705498624.0,,9.45,6.38
+TU,บริษัท ไทยยูเนี่ยน กรุ๊ป จำกัด (มหาชน),Packaged Foods,Consumer Defensive,45875613696.0,-0.212,11.9,5.65
+TURTLE,บริษัท ซุปเปอร์ เทอร์เทิล จำกัด (มหาชน),Restaurants,Consumer Cyclical,5881332736.0,-0.719,3.7,
+TVDH,บริษัท ทีวีดี โฮลดิ้งส์ จำกัด (มหาชน),Internet Retail,Consumer Cyclical,105142120.0,0.393,0.06,
+TVH,บริษัท ไทยวิวัฒน์ โฮลดิ้งส์ จำกัด (มหาชน),Insurance - Property & Casualty,Financial Services,2847981824.0,-0.51,9.5,4.63
+TVO,บริษัท น้ำมันพืชไทย จำกัด (มหาชน),Packaged Foods,Consumer Defensive,22147833856.0,0.254,24.9,6.48
+TVT,บริษัท ทีวี ธันเดอร์ จำกัด (มหาชน),Entertainment,Communication Services,200007520.0,0.0,0.25,
+TWP,บริษัท ไทยไวร์โพรดัคท์ จำกัด (มหาชน),Building Materials,Basic Materials,306996768.0,0.011,1.15,0.56
+TWPC,บริษัท ไทยวา จำกัด (มหาชน),Packaged Foods,Consumer Defensive,2447570176.0,,2.78,3.9
+TYCN,บริษัทไทยคูน เวิลด์ไวด์ กรุ๊ป (ประเทศไทย) จำกัด (มหาชน),Steel,Basic Materials,1050278080.0,0.07,1.76,
+UAC,บริษัท ยูเอซี โกลบอล จำกัด (มหาชน),Chemicals,Basic Materials,1842593152.0,-0.082,2.76,7.25
+UBA,บริษัท ยูทิลิตี้ บิสิเนส อัลลายแอนซ์ จำกัด (มหาชน),Waste Management,Industrials,635999936.0,0.353,1.06,9.09
+UBE,บริษัท อุบล ไบโอ เอทานอล จำกัด (มหาชน),Farm Products,Consumer Defensive,1761428736.0,0.164,0.45,3.33
+UBIS,บริษัท ยูบิส (เอเชีย) จำกัด (มหาชน),Specialty Chemicals,Basic Materials,327750272.0,-0.196,1.15,
+UEC,บริษัท ยูนิมิต เอนจิเนียริ่ง จำกัด (มหาชน),Steel,Basic Materials,382242112.0,-0.211,0.67,8.96
+UKEM,บริษัท ยูเนี่ยน ปิโตรเคมีคอล จำกัด (มหาชน),Chemicals,Basic Materials,661180352.0,-0.392,0.61,1.49
+UMI,บริษัท สหโมเสคอุตสาหกรรม จำกัด (มหาชน),Building Products & Equipment,Industrials,627378560.0,-0.159,0.75,5.26
+UMS,บริษัท ยูนิค ไมนิ่ง เซอร์วิสเซส จำกัด (มหาชน),Thermal Coal,Energy,620970816.0,-0.002,0.26,
+UNIQ,บริษัท ยูนิค เอ็นจิเนียริ่ง แอนด์ คอนสตรัคชั่น จำกัด (มหาชน),Engineering & Construction,Industrials,3134947072.0,0.588,2.9,2.24
+UOBKH,บริษัทหลักทรัพย์ ยูโอบี เคย์เฮียน (ประเทศไทย) จำกัด (มหาชน),Capital Markets,Financial Services,2688099840.0,0.004,5.35,
+UP,บริษัท ยูเนี่ยนพลาสติก จำกัด (มหาชน),Auto Parts,Consumer Cyclical,580000000.0,,23.2,8.53
+UPF,บริษัท ยูเนี่ยนไพโอเนียร์ จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,167250000.0,,22.3,5.38
+UPOIC,บริษัท สหอุตสาหกรรมน้ำมันปาล์ม จำกัด (มหาชน),Farm Products,Consumer Defensive,2122527488.0,0.115,6.55,5.15
+UREKA,บริษัท ยูเรกา ดีไซน์ จำกัด (มหาชน),Specialty Industrial Machinery,Industrials,602310656.0,-1.334,0.32,
+UTP,บริษัท ยูไนเต็ด เปเปอร์ จำกัด (มหาชน),Paper & Paper Products,Basic Materials,5004999680.0,,7.7,7.69
+UV,บริษัท ยูนิเวนเจอร์ จำกัด (มหาชน),Utilities - Independent Power Producers,Utilities,1663376128.0,0.41,0.87,10.59
+UVAN,บริษัท ยูนิวานิชน้ำมันปาล์ม จำกัด (มหาชน),Farm Products,Consumer Defensive,13817999360.0,0.126,14.7,8.68
+VARO,บริษัท วโรปกรณ์ จำกัด (มหาชน),Aluminum,Basic Materials,445563488.0,0.755,4.46,
+VCOM,บริษัท วินท์คอม เทคโนโลยี จำกัด (มหาชน),Electronics & Computer Distribution,Technology,1062237952.0,0.369,3.46,9.47
+VGI,บริษัท วีจีไอ จำกัด (มหาชน),Conglomerates,Industrials,23422427136.0,0.439,1.11,1.11
+VIBHA,บริษัท โรงพยาบาลวิภาวดี จำกัด (มหาชน),Medical Care Facilities,Healthcare,18878728192.0,-0.026,1.4,3.6
+VIH,บริษัท ศรีวิชัยเวชวิวัฒน์ จำกัด (มหาชน),Medical Care Facilities,Healthcare,5536161792.0,-0.036,9.1,2.78
+VL,บริษัท วี.แอล.เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Marine Shipping,Industrials,958737472.0,,0.81,1.85
+VNG,บริษัท วนชัย กรุ๊ป จำกัด (มหาชน),Lumber & Wood Production,Basic Materials,3418417920.0,0.031,1.97,5.08
+VPO,บริษัท วิจิตรภัณฑ์ปาล์มออยล์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,413600000.0,0.261,0.44,
+VRANDA,บริษัท วีรันดา รีสอร์ท จำกัด (มหาชน),Real Estate - Development,Real Estate,1419386624.0,-0.1,4.44,4.0
+VS,บริษัท วีเซิร์ฟ เอ็นเตอร์ไพรส์ จำกัด (มหาชน),Specialty Business Services,Industrials,72500000.0,,0.29,
+WACOAL,บริษัท ไทยวาโก้ จำกัด (มหาชน),Apparel Manufacturing,Consumer Cyclical,2028000000.0,0.077,16.9,3.51
+WARRIX,บริษัท วอริกซ์ สปอร์ต จำกัด (มหาชน),Leisure,Consumer Cyclical,1125142784.0,0.458,1.91,2.89
+WASH,บริษัท ลอนดรี้ ยู จำกัด (มหาชน),Specialty Business Services,Industrials,1941176576.0,,5.5,3.88
+ZIGA,บริษัท ซิก้า อินโนเวชั่น จำกัด (มหาชน),Steel,Basic Materials,678342208.0,,0.92,
+WAVE,บริษัท เวฟ เอกซ์โพเนนเชียล จำกัด (มหาชน),Education & Training Services,Consumer Defensive,229126832.0,1.418,0.02,
+WFX,บริษัท เวิลด์เฟล็กซ์ จำกัด (มหาชน),Textile Manufacturing,Consumer Cyclical,357433984.0,0.246,0.77,
+WGE,บริษัท เวล เกรด เอ็นจิเนียริ่ง จำกัด (มหาชน),Engineering & Construction,Industrials,492000000.0,0.297,0.82,
+WHA,บริษัท ดับบลิวเอชเอ คอร์ปอเรชั่น จำกัด (มหาชน),Real Estate Services,Real Estate,63673520128.0,0.011,4.26,4.83
+WHABT,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ บิสซิเนส คอมเพล็กซ์,REIT - Office,Real Estate,1151399936.0,0.118,5.7,10.43
+WHAIR,ทรัสต์เพื่อการลงทุนในสิทธิการเช่าอสังหาริมทรัพย์ดับบลิวเอชเอ อินดัสเตรียล,REIT - Industrial,Real Estate,7358702592.0,0.333,6.95,10.03
+WHART,ทรัสต์เพื่อการลงทุนในอสังหาริมทรัพย์และสิทธิการเช่าดับบลิวเอชเอ พรีเมี่ยม โกรท,REIT - Diversified,Real Estate,38157103104.0,0.335,11.0,6.91
+WHAUP,บริษัท ดับบลิวเอชเอ ยูทิลิตี้ส์ แอนด์ พาวเวอร์ จำกัด (มหาชน),Utilities - Regulated Water,Utilities,18666000384.0,,4.88,5.0
+WICE,บริษัท ไวส์ โลจิสติกส์ จำกัด (มหาชน),Integrated Freight & Logistics,Industrials,1717878656.0,0.926,2.68,5.19
+WIIK,บริษัท วิค จำกัด (มหาชน),Building Products & Equipment,Industrials,770668416.0,0.015,0.92,5.91
+WIN,บริษัท สวนอุตสาหกรรม วินโคสท์ จำกัด (มหาชน),Real Estate Services,Real Estate,162731760.0,-0.391,0.29,
+WINDOW,บริษัท วินโดว์ เอเชีย จำกัด (มหาชน),Building Materials,Basic Materials,683760000.0,,0.77,3.8
+WINMED,บริษัท วินเนอร์ยี่ เมดิคอล จำกัด (มหาชน),Medical Distribution,Healthcare,400000000.0,0.062,1.0,1.25
+WINNER,บริษัท วินเนอร์กรุ๊ป เอ็นเตอร์ไพรซ์ จำกัด (มหาชน),Packaged Foods,Consumer Defensive,1307944832.0,0.123,2.18,8.04
+WORK,บริษัท เวิร์คพอยท์ เอ็นเทอร์เทนเมนท์ จำกัด (มหาชน),Entertainment,Communication Services,1669098624.0,0.302,3.78,
+WP,บริษัท ดับบลิวพี เอ็นเนอร์ยี่ จำกัด (มหาชน),Utilities - Regulated Gas,Utilities,1919497984.0,,3.76,7.98
+WPH,บริษัท โรงพยาบาลวัฒนแพทย์ ตรัง จำกัด (มหาชน),Medical Care Facilities,Healthcare,5215923200.0,,7.45,0.95
+WSOL,บริษัท ดับบลิว เอส โอ แอล จำกัด (มหาชน),Business Equipment & Supplies,Industrials,462035968.0,0.477,0.19,
+XBIO,บริษัท เอ็กซ์ ไบโอไซเอนซ์ จำกัด (มหาชน),Food Distribution,Consumer Defensive,118399936.0,-0.104,0.06,
+XO,บริษัท เอ็กโซติค ฟู้ด จำกัด (มหาชน),Packaged Foods,Consumer Defensive,6209828864.0,0.066,14.5,4.68
+XPG,บริษัท เอ็กซ์สปริง แคปปิตอล จำกัด (มหาชน),Capital Markets,Financial Services,5243093504.0,1.253,0.49,1.96
+XYZ,บริษัท อาร์เอสเอ็กซ์วายแซด จำกัด (มหาชน),Specialty Chemicals,Basic Materials,646293632.0,-0.256,0.37,

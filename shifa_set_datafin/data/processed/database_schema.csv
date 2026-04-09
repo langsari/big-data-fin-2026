@@ -1,0 +1,29 @@
+table_name,column_name,data_type
+daily_prices_v2,symbol,character varying
+daily_prices_v2,date,date
+daily_prices_v2,open,double precision
+daily_prices_v2,high,double precision
+daily_prices_v2,low,double precision
+daily_prices_v2,close,double precision
+daily_prices_v2,volume,bigint
+set_master_v2,symbol,character varying
+set_master_v2,company_name_th,character varying
+set_master_v2,market,character varying
+set_master_v2,industry_group,character varying
+set_master_v2,sector_th,character varying
+set_master_v2,address,text
+set_master_v2,zipcode,character varying
+set_master_v2,phone,character varying
+set_master_v2,fax,character varying
+set_master_v2,website,character varying
+set_master_v2,updated_at,timestamp without time zone
+yfinance_info_v2,symbol,character varying
+yfinance_info_v2,long_name,character varying
+yfinance_info_v2,sector,character varying
+yfinance_info_v2,industry,character varying
+yfinance_info_v2,market_cap,bigint
+yfinance_info_v2,beta,double precision
+yfinance_info_v2,dividend_yield,double precision
+yfinance_info_v2,trailing_pe,double precision
+yfinance_info_v2,current_price,double precision
+yfinance_info_v2,raw_info_json,jsonb
