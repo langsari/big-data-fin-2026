@@ -1,0 +1,10 @@
+INSERT INTO categories VALUES (1, 'Energy');
+INSERT INTO categories VALUES (2, 'Commerce');
+INSERT INTO categories VALUES (3, 'Healthcare');
+INSERT INTO categories VALUES (4, 'Telecommunication');
+INSERT INTO categories VALUES (5, 'Transportation');
+INSERT INTO categories VALUES (6, 'Finance');
+INSERT INTO categories VALUES (7, 'Technology');
+INSERT INTO categories VALUES (13, 'Other');
+INSERT INTO categories VALUES (15, 'Food');
+INSERT INTO categories VALUES (17, 'Property');
